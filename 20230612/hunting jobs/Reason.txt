@@ -1,1 +1,0 @@
-Your internet is out, and devices connected by WiFi and ethernet will not connect. You check several websites, and all your packets fail. You then ping a website with an IP address, and to your surprise, it's a success.
