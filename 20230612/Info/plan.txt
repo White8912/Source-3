@@ -1,0 +1,94 @@
+Office Plan
+
+Prepare Meeting with HR and Chand
+Paystubs and ask details to Alexandar
+
+Build Resume - Analyzing JDs (React, Node, Python, Go, Java, Frontend, Backend, Fullstack, kind of porjects), Resume, Experience (with Proejcts), Developers
+
+Apply (with Strategy, target apply sites (LinkedIn, Indeed, Dice, and all others) ----- Adam & Tomas
+
+Find Developers (with your strategy)
+
+Push Data
+AJ
+Photon
+
+Coding exercise
+
+ChatGPT-how can I find talent developers?
+
+Weekend -> Portfolio
+
+Complete "After interview, real questions.docx" using Chatapi, and other...
+
+What is SaaS company, is GE SaaS company?
+What is CRM, CMS?
+How to integrate NodeJS&TypeScript
+How to integrate React, NodeJS, AWS and GraphQL?
+Java experience?  what is Microservice design patterns. I think we can use Java with microservices.
+Agile experience more detail, Python projects. everything for React, Vue, Angular, NodeJS, Python, Java, PHP, PostgreSQL, MySQL, MongoDB needs to be clear.
+Also Kubernets, Docker, CI/CD.
+
+Experience: Javascript, Typescript, React, Vue, NodeJS, AWS, Microservices, GraphQL, DynamoDB, SQL, MySQL, PostgreSQL, MongoDB, Java, Php, Python, Wordpress...
+(
+In my opinion, I might prepare more than 5 projects.
+When you write experience, add concepts in that.
+)
+
+e-commerce projects vs. retail projects
+
+what is tdd and bdd
+
+Complete your experience with React, NodeJS, and AWS.
+
+Consider matching your experience and knowledge with your resume
+
+interview prepare (greetings, appropriate sentences, responsibilites from JD, records, article)
+intro, experience (must react, chatapi-> what kind of project in React,  node, aws, python, java, Agile&scrum 1/17 ~ 1/18, React native, vue, angular, PHP, Java, Python, AWS, graphQL, web design, Rest APIs, SQL, CI/CD, WordPress-Symfony, C#...).
+
+rewrite resume with impressive React, React Native, Vue, Angular Node, Java, Python, AWS, GrapQL, Web design, System design, Rest APIs, SQL, CI/CD, Jenkins, Kubernet, Kafka, Docker, Microservices
+
+research recording materials
+
+React-server side rendering
+
+How can I use Slack, Zoom, GCal professionaly?
+
+prepare for start up company (why, what important, good...)
+
+email, cover letter template.
+
+backend-frontend-database integrating
+
+leadership experience, skill
+
+project link check
+
+interview prepare
+
+always research new methodologies to succeed in finding jobs, and always think why, what, how, and where?
+(
+best methods, steps, important things, careful things (in call, meeting, intro,   recruiter, HR, technical round, work culture)
+success point
+main point
+why don't other people success in an interview?
+find out your method to success in an interview?
+research job sites such as Indeed, etc.
+)
+
+Gmail - recovery gmail, protected gmail, save your info
+
+memorize and practice information in your note, notion, and computer.
+video record 3+ for interview
+call 10+
+apply 50+ jobs (Google search, LinkedIn, Indeed, Dice, ...)
+ES6+ problems and concept
+about TS
+React Video 10+
+Temp Q 1+ (per kind)
+create an experience, prepare interviews, note notion&computer
+solve leet code problems
+upgrade your resume and profile
+Analyzing your recording materials for call and interview.
+research 
+report progress

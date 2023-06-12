@@ -1,0 +1,24 @@
+Job Responsibilities:
+
+Prototype, model and design innovative and responsive user interface designs.
+Develop a fully functional web application that aligns with the business objectives.
+Define development practices and coding architecture that supports a secure, high performance, scalable and maintainable web application with optimal resource utilization.
+Promote agile and strict development and validation practices.
+Collaborate with customer and internal stake holders in refining the business requirements, project scope, decision making, technical documentation and perform UAT (User Acceptance Test) upon delivery of the product.
+Mentor junior engineers on technical, architectural, design and other related issues.
+Take architectural ownership of all the aspects of the web application.
+ 
+
+Qualifications:
+
+You are a professional software engineer with full stack web application development experience. You are comfortable working in a fast-paced development environment, self-motivated with strong interpersonal and communication skills. You are willing to work on multiple different projects and interested in taking various job responsibilities.
+Experienced in various technologies relevant to developing a full functional and responsive web application. Good understanding of modern web application design patterns, API design patterns, performance, and scalability. Bonus points if you have worked with both REST and GraphQL APIs in previous projects.
+4+ years’ experience in various scripting languages and web application frameworks. Bonus points if you have used Python, Django or other related ones in your previous projects.
+2+ years’ experience in various JavaScript libraries and frameworks such as React, Angular, Vue or related ones. Good understanding of web client technologies such as HTML, CSS, JavaScript and overall web application development. Server-side JavaScript experience with Nodejs. Bonus points if you have used React, TypeScript, CSS3 in previous projects.
+Experienced using both relational and non-relational databases.
+Prior experience with Test Driven Development is a big plus.
+Prior experience with UI build packaging processes relevant to modern web application development and other optimization tools.
+Good understanding of data structures and algorithms.
+Ability to work independently with less amount of direct supervision.
+BS or MS degree in computer sciences or related fields.
+You have 6 or more years of experience developing customer facing software.

@@ -1,0 +1,42 @@
+I have had the opportunity to work on an e-commerce project for a fashion retailer that required extensive use of Vue.js. One of the key requirements of the project was to provide a seamless shopping experience across all devices, from desktop to mobile. To achieve this, I collaborated closely with the design team to develop custom Vue.js components that were optimized for different screen sizes.
+
+For instance, we built a custom dropdown menu that would expand to fill the entire screen on mobile devices, while remaining compact on larger screens. We also developed a product gallery component that would display different images based on the user's device orientation, and automatically adjust the layout of the product details based on screen size.
+
+Another challenge we faced was integrating with third-party APIs for payment processing and order tracking. We used Vue.js to develop custom integrations that would seamlessly connect with these APIs, while providing real-time updates to the user. For example, when a user completed a purchase, they would receive a notification on their device that their order had been processed and was being prepared for shipping.
+
+Overall, my experience with Vue.js on this project allowed me to deliver a robust, scalable, and user-friendly e-commerce solution that met the unique requirements of the fashion retailer. Through my work, I gained valuable insights into how Vue.js can be leveraged to deliver high-quality front-end solutions for e-commerce projects.
+
+
+
+
+
+I developed a shipping platform at GE with Vue.js for marketing and SEO purposes.
+I worked with senior engineers on our project.
+There were challenges and I had to hanlde these.
+You know, easyship is an all-in-one shipping tool used by over 15000 e-commerce sellers. They came to us with an existing marketing website that needed a complete rewrite to set themselves apart from the competition.
+They were looking for developement experts who would help them implement new designs and facilitate their trasition from AngularJS to Vue. 
+Because you know AngularJS was way too slow and an SEO nightmare.
+
+The new version of the website was supposed to boost conversion rates and organic traffic.
+They needed Vue.js experts who would take up the challenge and complete followings.
+
+First, Building a lightweight Vue.js website according to existing design and guidelines.
+Second, Implementing SEO practices for best visibility in search engines.
+Finally, Providing the best experience for users to boost conversion rates.
+
+Easyship stayed in touch throughout the whole project by taking part in meetings and collaborating with our engineers directly.
+
+For best performance, I settled on a Nuxt.js + Express-based setup, with MongoDB for translations.
+
+The development pace was super fast, especially at the very beginning, as I already felt confident with the setup from prior experience.
+
+Working on logic-heavy pages, like the rates page or the crowdfunding campaigns page, was the most challenging part.
+
+Core activities at this stage included:
+
+A lot of CSS work with responsiveness as the top priority.
+Vue.js development with Nuxt, Express, MongoDB.
+Adding support for video and geolocation.
+Discussing deployment with our DevOps engineer and the SEO expert on the client’s side.
+
+Working with sleek, modern designs with lots of animations and SEO challenges, and using our beloved Vue.js in one project was pure pleasure. I was so happy with the final result!

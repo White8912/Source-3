@@ -1,0 +1,57 @@
+### Building a great user experience for customers.
+Collaborate with teammates, which include designers and product managers, to build full end-to-end features.
+I use these platforms creatively to builder better, more beautiful experiences for website and application visitors everywhere. I also look for ways to improve and maintain the user experience-expecially as technology shifts and users develop different demands and needs.
+Today, because customers want to access websites and apps that are fast, responsive, and easy to use in almost every industry-from healthcare to education to financial services, it is important to make user experience a winning one.
+
+### HTML, CSS, and JS
+When the web first was developed, HTML, which stands for HyperText Markup Language, was the only language used on the internet. To this day, it still provides the basic structure for websites everywhere. CSS, on the other hand, is used to construct a website’s layout, format, and design. HTML builds the structural underpinnings of a website, while CSS gives it its appearance and design.
+Technically speaking, HTML and CSS are markup instructions, rather than programming languages.
+JavaScript, however, is another story. 
+JavaScript, a dynamic scripting language, allows you to make websites interactive and build mobile apps. JavaScript is a lightweight programming language that interacts with Application Programming Interfaces (APIs). This capability helps front end developers create complex interactions quickly and simply on their websites, thereby providing an ideal user experience.
+JavaScript was also built to enable DOM manipulation, which changes the way that a user views a website based on their interactions. Today, JavaScript lies at the core of a wide range of scripting technologies and runtime environments that drive powerful applications and fast, responsive sites.
+HTML, CSS, and JavaScript are different languages, but they are often linked together as the core front end development skills you need to begin creating great sites.
+
+### DOM
+The Document Object Model (DOM) provides a programming interface for any document on the web. It represents the structure and the content of any web document, including its styles and HTML sections. 
+Through manipulating and interacting with the DOM, you can change the way the content on any page displays for the user. 
+The DOM turns each part of the website into nodes and objects.
+If you want to build interactive websites where users can store their information or direct their digital experience, DOM manipulation is an essential front end developer skill to add to your arsenal.
+
+### Full stack -> more backend
+maintain, enhance and update backend and middleware APIs and processe front-end interface development using React to build everything a user sees and interacts with on a website
+
+### Software Engineer
+I am an individual contributor responsible for the development of high quality, innovative and fully performing software in compliance with coding standards and technical designs. 
+My duties include being part of daily engineering stand ups, weekly sizing sessions, and weekly demos and working autonomously and successfully within an agile environment. 
+And I take personal responsibility for many aspects of the application development architecture and code quality.
+
+### Ajax
+AJAX, which stands for Asynchronous JavaScript and XML, brings together all the core front end developer technologies to communicate information between a client and a web server. 
+AJAX helps a client — the web browser a customer is using, for example — make a request to the server. Then, it allows the server to convey a response without forcing a reload. Because AJAX is asynchronous, the site doesn’t freeze up until the server replies; instead, it works behind the scenes to process a JavaScript request and update the DOM to reflect the server’s response to the user’s requests. 
+Many of the most popular social media sites that drive web traffic today, like Facebook and Twitter, rely on simple AJAX-based interactions to show more content and updated information as users scroll up and down through their timelines. In most cases, AJAX is so firmly woven into the framework of popular websites that it illustrates how most users expect their sites to work: proactively and without requiring extra effort.
+
+### how to implement ssr in react?
+To implement server-side rendering (SSR) in a React application, you will need to use a library or framework that supports SSR, such as Next.js or Razzle. Here's a basic overview of the steps you'll need to take:
+
+Set up your project to use the chosen library or framework for SSR.
+Modify your React components to work with SSR by ensuring that they do not rely on browser-specific APIs (e.g. using window or document) and that they can be rendered on the server.
+Use the chosen library or framework to render your React components on the server and return the rendered HTML to the client.
+On the client side, hydrate the server-rendered HTML with the React components to enable client-side interactions.
+It's worth noting that server-side rendering can be a complex and time-consuming process, so it's important to carefully consider whether it's necessary for your particular use case.
+
+
+
+===responsibilities
+### common
+Organize full lifecycle software development - design developing, deploying, and operationalizing.
+Write well designed, testable, efficient code.
+Estimate engineering effort, plan implementation, and roll out applications with cross-functional impact.
+Work jointly with other team members to deliver complex applicatioins.
+Implement working prototypes for testing new ideas.
+Participate and contribute to design and coe reviews for producing quality code.
+Write unit, integration and performance tests.
+
+### engineer
+Design, build, document, implement and operationalize highly scalable, available, reliable API's that are continously deployed and updated through an automated CI/CD pipeline.
+Participate in requirements definition, UX development, and customer support.
+Be and agent of Agile thinking to deliver testable and re-usable software iteratively.

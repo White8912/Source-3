@@ -1,0 +1,15 @@
+I have extensive experience using Java, Java EE, and Spring Boot to develop e-commerce projects. Specifically, I have worked on multiple projects utilizing these technologies, including building scalable and secure e-commerce websites, implementing payment gateways and integrations, and optimizing performance. My experience with Java, Java EE, and Spring Boot has allowed me to effectively design and develop solutions that meet the unique needs of e-commerce businesses.
+
+
+
+In my recent experience as a senior software engineer, I have worked on two significant projects that showcased my expertise in Java and the Spring framework. The first project involved developing a wealth management interface for a financial services company, while the second project focused on building a reporting and analysis platform for a large e-commerce enterprise.
+
+For the wealth management interface project, we followed an Agile development methodology. We worked in sprints and held daily stand-up meetings to track progress and address any impediments. The project utilized Test-Driven Development (TDD) practices to ensure high code quality and maintainable software. Additionally, we adopted pair programming as an effective collaboration technique, providing continuous feedback and knowledge sharing.
+
+On the direct team for the wealth management interface, we had six software engineers, including myself. We worked closely with a product owner, a UX/UI designer, and a quality assurance engineer, bringing the total team size to nine members. Additionally, there were several other cross-functional teams led by different managers, each focusing on specific aspects such as database management, integration with external systems, and security.
+
+In the reporting and analysis platform project, we also followed an Agile approach with an emphasis on collaboration and incremental development. We leveraged Spring Boot and Spring Data to build the backend services, and React for the frontend. The project employed continuous integration and deployment (CI/CD) practices, allowing us to deliver features frequently and maintain a high level of quality.
+
+On the direct team for the reporting and analysis platform, we had eight software engineers, including myself. We worked closely with a product manager, data analysts, and a dedicated DevOps engineer to ensure seamless integration and deployment. Including the teams led by other managers, the overall project comprised approximately 25 individuals.
+
+In both projects, my role as a senior software engineer involved not only writing code but also participating in architecture discussions, mentoring junior team members, and collaborating with stakeholders to ensure the successful delivery of the projects.

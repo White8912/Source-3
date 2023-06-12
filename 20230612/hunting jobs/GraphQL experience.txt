@@ -1,0 +1,17 @@
+I have extensive experience using GraphQL in the development of e-commerce platforms as a senior software engineer. I have used GraphQL to design and implement efficient and flexible APIs that can be easily integrated with various client-side applications, including web and mobile applications. My experience with GraphQL includes developing schemas, resolvers, and mutations to handle complex data structures, and using tools such as Apollo to manage client-side caching and state management. I am also skilled in optimizing GraphQL APIs for performance, security, and scalability, and have experience integrating them with various backend technologies, including NodeJS, Python and Django.
+
+
+In contrast to working with REST APIs, we don't have to deal with constructuing our own HTTP requrests any more - instead we can simply write queries and mutations and send them using an ApolloClient instance.
+
+The first thing we have to do when using Apollo is configure our ApolloClient instance. It need to know the endpoint of our GraphQL API so it can deal with the network connections.
+
+Prisma provides the database layer which offers CRUD operations. The second layer is the application layer for business logic and common workflows (like authentication).
+
+Fetching data with Queries, Writing data with Mutations (creating new data, updating existing data, deleting existing data), Realtime update with Subscriptions.
+
+
+Challenge: Server-side caching still is a challenge with GraphQL.
+One common concern with GraphQL, especially when comparing it to REST, are the difficulties to maintain server-side cache. With REST, it’s easy to cache the data for each endpoint, since it’s sure that the structure of the data will not change.
+
+With GraphQL on the other hand, it’s not clear what a client will request next, so putting a caching layer right behind the API doesn’t make a lot of sense.
+

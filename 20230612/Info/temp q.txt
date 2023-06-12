@@ -1,0 +1,72 @@
+Temp Q
+Temp Q
+Interview
+
+- common
+- when you tell about last positions, how many positions are there (google as a front end developer, a back end developer, a full stack developer)?
+- tech
+how to make a code rievew? (e.x. in Git push, and merge)
+Mern stack
+Find out and acquire some projects (e-commerce, commercial, HR, health, social site, chat(audio, text, video, file), education, instructor) in github, etc.
+In my opinion, I can figure out it in job description in job sites.
+- Other projects
+Think and find out about "what kind of projects I can tell about my experience".
+React, NodeJS, AWS, GraphQL experience
+
+Technical part
+
+- React (Tutorial, Video, Technical Interview Questions)
+React hooks
+remove items, modal component in React.
+performance, e-commerce projects analysis, new concepts(v18), 18 vs 17,16, concurrency, zero-bundle-size, server components, Architecture, athontication
+Unidirectional vs. Bidirectional
+-HOC, Reusable component, the difference between useMemo and React.Momo, Props, context API, Redux, Saga, Thunk
+Health, HR, Finance projects using React?
+Best appropriate project to develop with React?(...dashboards, CRM systems, ecommerce, cross-platfrom mobile apps, social networks)
+functional programming?, functional component?
+pure component, pure programming?
+In React, what is lazy? webpack, Rollup, Browserify, bable, bundle, csr, ssr, pre rendering, site generation, pure component, HOC?
+in React, SSR how?
+SEO(what, how, best way in React 18, why)
+advatage of React, Gatsby, NextJS
+React vs. Angular vs. Vue
+Spring Data, Redis/Memcache, AWS certification.
+
+Vue3 vs Vue2
+
+- Testing
+(debugging and testing knowldege and programs).
+Unit
+Integration
+Automation
+- JS
+ES 2015+???(private Class, Promise.allSetteld -> declare function, Nullish Coalescing operater, Optional Chaining operater, BigInt, Dynamic Import?)
+TS
+AngularJS
+- Other
+In CSS, Grid vs. Flex
+Rest full APIs
+Frontend architecture
+What means mentor junior developers
+TDD environment, Postgres ecosystem
+GRPC backend services
+Kubernetes
+CI/CD & pipe lines?
+Kafka
+Teraform
+Docker
+Salesforce, Spring
+UX/UI?
+AWS
+PHP
+Python
+C#/.Net
+Heroku
+Figma
+Azure cloud services, AWS, Microservices architecture
+In an agile work environment, sprint, grooming, retrospective meeting
+SPA, PWA, cutting-edge, inclusive design practices?
+SOA/SOAP/REST
+third-party services
+DataBase apis, management method, kind, (MySQL vs Postgress, MongoDB, etc)
+experience communicating directly with clients

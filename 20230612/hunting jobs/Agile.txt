@@ -1,0 +1,90 @@
+What did you do yesterday? What did you accomplish yesterday?
+What will you work on today? What do you plan on doing today?
+Do you have any obstacles?
+
+### Can you describe your experience working in an agile scrum development workflow?
+
+We used Jira for tricking studios and tickets.
+My responsiblities were checking tickets from the managers as every sprint. After I completed task, I created a pull request and set up some reviewers for that. Waiting for review.
+
+### Are you currently working in an agile scrum development workflow?
+Yes, it is being used at my company. So I am familiar with it.
+
+### Do you recall any process (rituals) that you did> Throughout the course of sprints. 
+--- By the agile block, the meetings that you have in the cycle are called rituals, but some implementations of agile might not use the word ritual. There may be meetings that you have in the cycle.
+
+### How does that compare, the one-week cycle compared to the two weeks was the differnece? Was there a pros or cons on those?
+
+For one week, we can develop the project rapidly. There is too time to review the every ticket.
+
+### Imagine that you're starting in a brand new company and you are the very first developer there. You are talking to the leadership. They say Kevin, we're trying to decide how long cycle should we have?  How would you work to help determine what the link to the cycle should be?
+
+If I were you, two cycle would be great. 
+
+### Let's imagine that you are planning a project and in that project, let's say that it's a two-week cycle. But you can tell at the beginning, this is gonna take more than two cycles to do this project. How do you break it up? 
+
+I think it must be at least two weeks. We have to have a sprint meeting frequently to solve technical issues and to get a more chance to communicate with the team memberrs are very important.
+
+### Let me ask another question, we'll come back to that. How long days will you have done? 
+
+In most of cases, the task estimation are estimated by the team manager and team lead.
+
+### Did you get to participate in any of the estimation?
+
+Yes, I love to participate in this. 
+
+### So, working in two weeks cycle, and we've got a project comes down. It looks like it is about six weeks wort of work. Waht can you do then?
+
+I would so create the task in the smaller parts and in the smaller phases and fit for a two weeks or three weeks. I will have some meetings frequently and we can review the project status at least in a couple of weeks. We can have some kind of final screen at the end of the period. I think it would be better.
+I mean the thing I am looking for is the work in phases, one of the things that we do and is to try and work in small phases where we can be more predictable.
+
+We'll work in phases that in two weeks, you know, units. And then, one of the things we figured out is that it's really valuable. At the end of each of those cycles, there is something demonstrable. For example, I gave where team members got a task or a project, it's going to take six weeks. If it were possible, we would optimally like to do some smaller piece of that in two weeks.
+
+### I just feel like two weeks is a nice weet spot personally in my opinion, but did you do any daily checkings or daily meetings where you kind of projects status and where you are at with various pieces of work.
+
+I had a daily standups in the morning and shared the project status and shared some ideas, progress, and plans. It won't be so long only 15 minutes. Every teammebers shared about their current track statues and what is the blocking, and what's the plugs?
+
+### Did you familiar with doing reviews and end points of agile life cycle?
+
+Yes, I am familiar with i. So after the sprints, just before testing, I was happy to review and had to have test cases and scenarios
+
+
+
+
+In an Agile team, the roles can vary depending on the specific methodology being used (e.g. Scrum, Kanban, etc.). However, some common roles in an Agile team include:
+
+Product Owner: responsible for defining and prioritizing the team's backlog of work and ensuring that the team is working on the most valuable items.
+
+Scrum Master: responsible for facilitating the Agile process and helping the team to follow the Agile methodology.
+
+Development Team: responsible for delivering the product increments and completing the tasks defined in the backlog.
+
+Stakeholders: individuals or groups with an interest in the product being developed.
+
+It's important to note that in an Agile environment, the roles are often fluid and cross-functional, with team members taking on multiple responsibilities as needed. Additionally, Agile teams often emphasize collaboration and self-organization over rigidly defined roles and responsibilities.
+
+
+
+As a senior software engineer, your role would likely involve a combination of technical and leadership responsibilities. Some of the key responsibilities for a senior software engineer may include:
+
+Designing and implementing complex software systems
+Mentoring and leading junior developers
+Collaborating with cross-functional teams such as product managers, designers, and quality assurance engineers
+Participating in code reviews and ensuring high quality standards are met
+Staying up-to-date with the latest technologies and industry trends, and incorporating them into the development process where appropriate
+Troubleshooting technical problems and resolving bugs
+Assisting with project planning and estimation
+In summary, as a senior software engineer, you would be responsible for both technical contributions and leading the development team towards success.
+
+
+
+
+
+
+Benefits of Using Scrum Task Boards
+Reasons why your company should implement the approach:
+
+Increased team efficiency and communication. Transparency and visibility of all the processes allow the team to track the progress and stay current about what’s happening. Each member can monitor the scope of work left to be done and the number of tasks completed which can encourage them to accomplish tasks.
+Improved accountability. Transparency of the process allows the team to share the tasks, responsibilities, and entire process.
+Easiness of use. Any scrum software is easy to install and use. Thanks to the intuitive interface and detailed guides, it’s pretty simple and fast to get started and implement the methodology as well as adjust and even gamify it along the way.
+Helps to recognize problems and pivots. Thanks to the visual representation of the priorities and issues along with continuous communication between the teammates, it’s much easier to recognize the problems and even prevent them.

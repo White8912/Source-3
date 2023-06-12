@@ -1,0 +1,20 @@
+### Tell us about yourself. Share a 1-2 minute introduction about who you are, your background, and what you are looking for in your next opportunity.
+
+My name is James Chang and I've been working for 9 years as a senior front end engineer such as proper coding, requirement analysis, designing, building, deploying, and managing
+mission-critical web apps.
+I have deep knowledge and rich experience in handling the majority of development on an e-commerce project and social media platform.
+I am passionate about creating quality products that meet all customer's needs.
+I prefer to work in an environment where I get to help people and collaborate with other team members.
+My core skills include being a strong communicator and a competent problem-solver.
+I would also describe myself as having extensive knowledge of JS, TS, React, Vue, Jest, NodeJS, Express, GraphQL,
+
+In my next opportunity as a front-end engineer, I am seeking a challenging and rewarding opportunity that allows me to apply my technical skills to make a positive impact on the company and its customers, and to continue growing as a front-end engineer.
+
+
+### Why Univers? Tell us what drew you to apply for this role at our company.
+
+I was drawn to apply for the front-end engineer role at Univers for several reasons such as
+
+Exciting technology, Strong company culture, Opportunity for impact, Reputation, and Alignment with my career goals
+
+Overall, I am excited about the opportunity to join Univers and make a positive impact on the company and its customers. I am confident that this role will provide me with the challenges and opportunities I am looking for to continue growing as a front-end engineer.

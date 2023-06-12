@@ -1,0 +1,278 @@
+# Self-Introduction
+
+### 1.Tell me about myself
+
+Since graduating with honor of computer science from the University of California in 2015, I have been working as a frontend developer and a full-stack developer in several companies.
+
+I have worked with cross-functional teams in the requirement analysis, designing, building, deploying, and managing mission-critical internet scale platforms
+
+I have seven years’ progressive experience in building startups (or implementing IMS), advancing from my initial role as a front-end developer to my current position as a senior Full-stack developer.
+
+My core skills include modern JS frameworks and PHP such as React, Vue, Angular, Laravel, and Node etc.
+
+I have deep knowledge and strong experience in handling the majority of development on a React eCommerce project.
+
+I would describe myself as a master of React library.
+
+I am also competent in the use of Cloud Services (AWS(([Lamda](https://docs.aws.amazon.com/lambda/latest/dg/welcome.html), [EC2](https://www.google.com.hk/search?q=aws+EC2&newwindow=1&ei=cwU_YezWH-HrxgHHw6SYDA&oq=aws+EC2&gs_lcp=Cgdnd3Mtd2l6EAMyBAgAEEMyBQgAEIAEMgQIABBDMgUIABCABDIECAAQQzIECAAQQzIFCAAQgAQyBAgAEEMyBQgAEIAEMgUIABCABDoHCAAQsAMQCkoFCEASATFKBAhBGAFQitYOWIrWDmDp3g5oAnAAeACAAZADiAGQA5IBAzQtMZgBAKABAqABAcgBCsABAQ&sclient=gws-wiz&ved=0ahUKEwis3LeHvvvyAhXhtTEKHcchCcMQ4dUDCA4&uact=5), [S3](https://aws.amazon.com/s3/), [Amplify](https://aws.amazon.com/amplify/), [Cognit](https://docs.aws.amazon.com/cognito/latest/developerguide/what-is-amazon-cognito.html)), [GCP](https://searchcloudcomputing.techtarget.com/definition/Google-Cloud-Platform), [Azure](https://azure.microsoft.com/en-in/overview/what-is-azure/), [PCF](https://www.sumologic.com/glossary/pcf/), etc.) cloud-based infrastructure that would be needed in this role.
+
+I am also familiar with hosting services such as AWS, Heroku, Azure, and then talented with DevOps skills such as Docker or Jenkins.
+
+Regarding my backend development, as a full-stack developer, I've participated in backend development in several times. Through my careers, I have been well-versed in Node and its frameworks Nest and Express.
+
+I pride myself on my ability to quickly resolve problems so that our clients always enjoy their time with us.
+
+Finally, I am the type of person who embraces change positively, and I will always take responsibility for my own ongoing professional development which I believe will help your business stay at the forefront of software industry.
+
+     Before applying for this front end developer role with your company, I spent time reading the job description and the person specification. I wanted to make sure I was both properly qualified for the role, and that I also had the appropriate experience and skills to help drive the company forward.
+
+**Summary of Role in With pulp**
+
+We're bridging the divide between art, branding, design and technology to make digital
+products and services that are both memorable and usable.
+<<<<<<< HEAD
+My mission is to build and oversee the technical design and development of our product while collaborating with leadership to provide critical insight. This is both a strategic and technical role. I have developed and guided the creation of technology while acting as engineering thought leader within the organization.
+=======
+My mission is to build and oversee the technical design and development of our product while collaborating with leadership to provide critical insight. This is both a strategic and technical role. I have developed and guided the creation of technology while acting as engineering thought leader within the organization.
+
+> > > > > > > 71870c156c6c46f39bc9650a793fca190f8c1949
+> > > > > > > My responsibilities include writing and executing the deployment of code for our product, writing technical documents, managing workload, communicating progress, and releasing high-quality code.
+> > > > > > > As the frontend Engineer, I understood our business objectives, integrated them into our development priorities, articulate technical considerations to non-technical peers, and grow our engineering team. And I reported to the Product Lead and then evolve to report directly to the CTO or CEO.
+
+**Summary of Role in Comcate**
+
+now I am working in OURFIRES company as a frontend developer in contract part time position.
+
+In comcate company I have worked as a front end developer in remote position.
+
+I was a member of talented software team that works on technologically cutting-edge application in an software industry startup. my Roles and responsibilities include managing Angular(Gatsby,Vue) & Node.JS application development while providing expertise in the full software development lifecycle, from concept and design to assisting in testing.
+
+**Responsibilities**
+
+- Develop highly functional, responsive websites based on mockups, wireframes, design artifacts, product and technical requirements
+- Assist in translating business requirements into software designs, implementation schedules, and deployment strategies.
+- Build websites with an eye on usability, conversion, and attention to detail.
+- Build CSS that enables as many devices and resolutions as possible while maintaining minimum load times.
+- Participate in the refinement and ideation of user interface A/B tests.
+- Define new features that ensure a high performing and scalable user experience for both mobile and desktop users.
+- Collaborate with peers on technical design, work estimation, and feature implementation.
+- Participate in sprint planning by understanding the effort, risk, and priority of remaining work committed for each release.
+- Perform peer code reviews and collaborate with the team to improve overall code quality.
+- Contribute ideas for continually improving the team's productivity, release quality, and job enjoyment.
+
+### Biggest challenges in project
+
+One of the challenges was to write test cases for every epic of redux state, there are complex data structures and business logic, so it was a bit challenging to write mock data and cover every logical function that is used in the frontend, however, we invested time and eventually managed. The purpose is that it will make review easier and avoid logical conflicts while other developers are also working on the projects.
+
+These are good exciting opportunities to bring my technical and hands-on experiences to several kinds of companies.
+
+I am very proud to say that all projects I have done is built on OOP principles.
+
+# <<<<<<< HEAD
+
+> > > > > > > 71870c156c6c46f39bc9650a793fca190f8c1949
+
+### 2. Why do I want this job? why should you hire me?
+
+You should hire me because my experience is almost perfectly aligned with the requirements you asked for in your job listing. I have seven years’ progressive experience in building startups (or implementing IMS), advancing from my initial role as a front-end developer to my current position there as a senior Full-stack developer. I’m well-versed in providing [world-class customer service](https://blog.hubspot.com/service/world-class-service#:~:text=World%2Dclass%20customer%20service%20is,loyalty%20and%20facilitate%20customer%20acquisition.) to an upscale clientele, and I pride myself on my ability to quickly (build your project) resolve problems so that our guests enjoy their time with us (you can put your idea into reality in the shortest time).
+
+### 3. What Is Your Greatest Strength?
+
+I have a solid work ethic. When I'm working on a project, I don't just want to meet deadlines. Rather, I prefer to complete the project well ahead of schedule. Last year, I even earned a bonus for completing my three most recent reports one week ahead of time.
+
+Flexibility and Adaptability is my key strength.
+
+I am believe I am much more flexible than most people, and in different situations , on different teams, I can adapt as required.
+
+I am a dedicated developer always looking to learn and expand skill set, utilizing best development practices, implementing new technologies as well as writing well structured and optimized code. Adapting and the ability to learn are two of my greatest assets.
+
+I have a unique ability of understanding and translating business requirements into development roadmaps.
+
+Thanks to my proactive attitude, effective communication, and flexibility, I can adapt to any team conditions in a short amount of time.
+
+### 4. What is your Greatest Weakness?
+
+Well, I would have to say that I might need to work on being a bit better listener in some situations. In the past, sometimes I have been very focused on what I think is right solution, and others might think I push too hard without getting input [first.](http://first.So) so I am trying to do that whenever I work in a team.
+
+### **5.Tell about a conflict or failure that I faced at work.**
+
+<<<<<<< HEAD
+As you know, nobody is perfect.
+
+Actually, I have faced at conflict and failures in building project in several times.
+
+# For example, I have implemented IMS of Tobacco Product Manufacturing Companies of Chengdu. It was a really big system. It took 2 years to complete successfully. At that time the site we had built was not widely used among workers. Because it was far away from requirement of reality. So we have got input from workers but not researchers or information on the internet. We have solved the issues step by step testing in a workstation level.
+
+As you know, nobody is perfect.
+
+Actually, I have faced at conflict and failures in building project in several times.
+
+For example, I have implemented IMS of Tobacco Product Manufacturing Companies of Chengdu. It was a really big system. It took 2 years to complete successfully. At that time the site we had built was not widely used among workers. Because it was far away from requirement of reality. So we have got input from workers but not researchers or information on the internet. We have solved the issues step by step testing in a workstation level.
+
+> > > > > > > 71870c156c6c46f39bc9650a793fca190f8c1949
+
+At that time we realized that what is more important thing is can-do attitude without disappointment.
+
+**We all make mistakes, this happens no matter in research or in life. However, when I make mistakes, big or small, I treat them very seriously. I have been trying my very best to learn from my mistakes and take these opportunities to grow, in order not to make the same mistake twice.**
+
+**"Make mistakes, don't fake perfection. But don't make the same mistake twice." This would be my advice, indeed**
+
+### 6. why do you want to leave (or have left) your job?
+
+     Now I have been working in this company as a contractor. I have already finished last project in previews month and the duration of contract has already ended up.
+
+I was very fortunate to be hired by Comcate Company right out of college. They taught me a lot about how to build projects, and it’s been stimulating to work as a contributor to their creative teams. However, I’m ready for the next step.
+
+<<<<<<< HEAD
+As you know, everybody has its own goals.
+=======
+As you know, everybody has its own goals.
+
+> > > > > > > 71870c156c6c46f39bc9650a793fca190f8c1949
+
+Now I am looking forward good opportunity to improve my skills and achieve my goals.
+
+Of course, Comcate provides a good opportunity but it is limited for me.
+
+I think a larger company can gives me a bigger and better platform where I can make an impact.
+
+### 7.**Salary Expectations**
+
+I am looking at opportunities in the 4k range, which I understand is about the industry average.
+
+**question:** Alright, and besides salary, what's important to you on the **intangible** side of things?
+
+<<<<<<< HEAD
+**answer:** Oh, well what's important to me is a position work environment with opportunities to explore new ideas. I am also looking for good people and **dynamic, creative** teams. And flexible working hours would be a real bonus.
+=======
+**answer:** Oh, well what's important to me is a position work environment with opportunities to explore new ideas. I am also looking for good people and **dynamic, creative** teams. And flexible working hours would be a real bonus.
+
+> > > > > > > 71870c156c6c46f39bc9650a793fca190f8c1949
+
+### **8. Please tell me about React development you have experienced? Exactly what is your accomplishment in your development?**
+
+If I describe my process of building project, it is as following.
+
+I usually start from deciding on component. as you know deciding on component is the first step to build a project keeping the OOP principle. And then I used to decide the state and where it lives. To decide a state and manage it is the important factor to make a program more flexible and extensible and reusable etc. So in order to manage the state globally, we use a redux in React and vuex in Vue.js. And then next, we have to recognize what changes when state changes.
+
+<<<<<<< HEAD
+If I summarize what I have mentioned above,
+=======
+If I summarize what I have mentioned above,
+
+> > > > > > > 71870c156c6c46f39bc9650a793fca190f8c1949
+
+1.decide on component.
+
+2. decide the state and where it lives.
+
+3. what chages when state changes.
+
+These are essential steps that I usually used to build any project.
+
+As a result, I would describe my accomplishment in building project as clarity and robustness.
+
+I am very proud to say that all projects I have done is built on OOP principles.
+
+### 9**. As a mentor yourself, how do you inspire your student mentees?**
+
+As a mentor to some young or non-experience developers, I usually share my own experience with them, hoping to bring them inspiration and help them realize their interests.
+
+I always lead them by examples and mistakes and place great emphasis on thorough testing. And then what is more important is to encourage them to grow and have a strong vision by themselves. I usually demanded that they usually keep developing themselves. And second, the important thing has to have a good appearance as a mentor. So I tried to keep my positive attitude and engage in honest, open communication. and care about everyone on my team.
+
+## 10.Describe an Important Project You Worked On
+
+"I have worked on many important projects throughout my career. What's really crucial for me when starting one is to get very clear on the goals right at the start and then create a plan with milestones. I also like dealing with the most difficult parts of the projects early on—that way in case there are any significant issues, I'll still have a nice amount of time to complete before the deadline. I also typically break down large tasks into smaller chunks, so that it is easier to know where to start. Detailed planning is very important to ensure an important project goes smoothly. For example, last year I was in charge of . . . .
+
+In order to get project "X" completed in my previous job, I found out who the key stakeholders were and got their input on the project's different parts. Then, I outlined the major milestones that would be involved in completing the project, and worked backwards to break down the work that would need to be done at each stage.
+
+I created a list of all possible risks that might stop us from reaching those milestones, and I then added some extra time to the schedule in case anything unexpected came up. I also made sure that my role and responsibilities in the project were as clear as possible so I knew exactly what I had to do. The project was completed on time, but looking back, I realize there were some problems that could have been avoided. For example, I would have changed "Z" in order to avoid some of the minor scheduling problems we ran into. Having said that, it's always easier to see what the learnings are after a project has been completed, and I now know what I'd do differently the next time.
+
+### 11.**What is something outside of your work that you are passionate about?**
+
+One area that I’m passionate about is self-development and self-improvement in my personal life. I’m always looking to challenge myself and learn new things. That’s one reason I enjoy working in customer service; I’ve learned great communication skills, listening skills, and problem-solving skills that help me in my day-to-day work but also in my personal life in terms of confidence, communication, etc.
+
+I’m really passionate about hiking and being outdoors. That’s usually how I spend my weekends and my time when I’m not in the office. I feel like I have more energy when I return to the office on Mondays if I’ve spent some time outdoors on the weekend.
+
+## **What is your greatest accomplishment?**
+
+**Example 1:**
+
+<<<<<<< HEAD
+\*“**My greatest accomplishment occurred in my previous position as front end lead.\***
+
+_In my last position, our technology development team lost a colleague due to relocation. He was the lead developer for the new version of web app. Unfortunately, no one else on the team had worked with the new version of apps. Since I had experience developing the kinds of web app, I volunteered to take on the lead role of development and deployment of the app. I worked with the other team members to create and troubleshoot the new app. I was able to finish the development 60 days ahead of schedule. It's currently available in the iTunes Store and already has over 350 positive reviews and has offered an additional revenue stream for the company.”_
+
+**Example 2:**
+
+# _“In my most recent job I was responsible for managing the orientation and training programs for our new hires. Unfortunately, the content was not engaging. While it was necessary information for our new hires to have, we found that only 35% of new hires did not complete the training. We were also receiving poor feedback on the course evaluation forms. I decided to rework the training program to make it more relevant and interesting based on industry best practices and feedback on the evaluation forms. Today, 93% of participants complete the training and provide positive feedback about their experience. My manager was so pleased with the improvements that she asked me to lead a training seminar in our New York office."_
+
+\*“**My greatest accomplishment occurred in my previous position as front end lead.\***
+
+_In my last position, our technology development team lost a colleague due to relocation. He was the lead developer for the new version of web app. Unfortunately, no one else on the team had worked with the new version of apps. Since I had experience developing the kinds of web app, I volunteered to take on the lead role of development and deployment of the app. I worked with the other team members to create and troubleshoot the new app. I was able to finish the development 60 days ahead of schedule. It's currently available in the iTunes Store and already has over 350 positive reviews and has offered an additional revenue stream for the company.”_
+
+**Example 2:**
+
+_“In my most recent job I was responsible for managing the orientation and training programs for our new hires. Unfortunately, the content was not engaging. While it was necessary information for our new hires to have, we found that only 35% of new hires did not complete the training. We were also receiving poor feedback on the course evaluation forms. I decided to rework the training program to make it more relevant and interesting based on industry best practices and feedback on the evaluation forms. Today, 93% of participants complete the training and provide positive feedback about their experience. My manager was so pleased with the improvements that she asked me to lead a training seminar in our New York office."_
+
+> > > > > > > 71870c156c6c46f39bc9650a793fca190f8c1949
+
+### What motivates you to do your best work?
+
+Working in a team and leading one, is my motivation to do a good job. United we stand, divided we fall has been my mantra for success right along. Working in a team has taught me so much more. It enlightened me and opened up my mind to a whole new world. The confluence of ideas, thoughts, and opinions encouraged me to know and learn from my peers. There was a time when I believed that I could do everything on my own. With time I realized the magnitude of achievement possible with teamwork. It took me some time getting used to leading a team of varied individuals. Gradually I realised that it was more about dealing with their personalities and less about their skills sets. It was a challenge which I took up and gained valuable insights related to team building and motivation. As a leader, it is imperative that you trust your team members and support them. It is also important to create synergy from their individual capabilities.
+
+## what is the most difficult thing you have ever worked on
+
+The most difficult thing is to estimate time line to finish the project delivered to me. Sometimes I’ve worked with clients non-experienced in development. At that time they asked me to estimate time line to finish project successfully. If I estimate it as I want based on my situation, it would affects the business strategy badly. As a front end leader, I should make milestone blended well with strategy and team members’ ability. So I got inputs from collaborators and client and decided it. Due to urgent launching date we should sometimes work in weekday. After all I made the intended outcomes as they want and they always enjoyed with my ability.
+
+### Tell us about a time when you had to give someone difficult feedback. How did you handle it?
+
+I Listen carefully to his feedback, to identify the real problem. And respond quickly, but not in an emotional or reactive manner. If we are in my team, pull him aside, and ask questions and offer proactive solutions to correct the issue and demonstrate my genuine care.
+
+I always take negative feedback as an opportunity to improve my products and services for the future.
+
+### WHAT DO YOU CONSIDER TO BE YOUR BIGGEST PROFESSIONAL FAILURE, AND WHAT DID YOU LEARN FROM IT?
+
+<<<<<<< HEAD
+_I was managing a project where a new client wanted a large number of unique product descriptions written to improve the SEO ranking of their site. Because they were a new client and I wanted to impress them with the kind of results we could produce, I assured them we could have it back to them in two weeks. I thought this was doable with multiple writers working on the project, but in the end, it took an extra week, and they were not happy._
+
+# _We apologized and reassured them that the mistake wouldn’t happen again. I realized that it’s far better to under-promise and over-deliver. The client isn’t going to be upset when you are clear about what the timeline is from the beginning. Problems arise when you can’t meet promised deadlines. I used this experience to be more cautious in managing client expectations. For the next client project I worked on, I made sure to include extra time for unforeseen circumstances and told them we would deliver in four weeks. We delivered in three, and they couldn’t have been more thrilled._
+
+_I was managing a project where a new client wanted a large number of unique product descriptions written to improve the SEO ranking of their site. Because they were a new client and I wanted to impress them with the kind of results we could produce, I assured them we could have it back to them in two weeks. I thought this was doable with multiple writers working on the project, but in the end, it took an extra week, and they were not happy._
+
+_We apologized and reassured them that the mistake wouldn’t happen again. I realized that it’s far better to under-promise and over-deliver. The client isn’t going to be upset when you are clear about what the timeline is from the beginning. Problems arise when you can’t meet promised deadlines. I used this experience to be more cautious in managing client expectations. For the next client project I worked on, I made sure to include extra time for unforeseen circumstances and told them we would deliver in four weeks. We delivered in three, and they couldn’t have been more thrilled._
+
+> > > > > > > 71870c156c6c46f39bc9650a793fca190f8c1949
+
+### **Tell me about the project that you are most proud of. What did you do? How did it turn out?**
+
+C**urrently a postdoctoral fellow in HKUST, Dr. YIN Ran began his journey at the University as an MPhil student in the Department of Civil and Environmental Engineering in 2014, and obtained his MPhil and PhD degrees in 2016 and 2020 respectively. During his PhD studies, he has published 22 papers in leading journals in the field of environmental engineering, and is also the co-inventor of two granted patents. His remarkable achievements and significant advanced water treatment research has earned him the School of Engineering PhD Research Excellence Award 2020-21.**
+
+**As an engineering PhD student myself, I was delighted to have the chance to speak with Dr. Yin. While he generously shared his insights, I saw the spark in his eyes that captured his fondness for research and his career.**
+
+### **1. Why did you choose to come to HKUST for your MPhil and PhD studies?**
+
+**When I was working on my final year project about water treatment during my undergraduate studies at Nanjing University, I grew interests in doing research, thanks to my advisor, an expert in water treatment technology and environmental engineering, who inspired me a lot. HKUST is one of the best research universities in Asia, therefore I chose to embark on my journey here. Through the training of my MPhil studies, I confirmed my interest in doing research and desired to pursue an academic career, so I decided to continue with PhD studies upon graduating from the MPhil program.**
+
+### **2. What does your typical day look like?**
+
+**I often spend long hours on campus, coming at around 9am and leaving at about 10pm from Monday to Friday. You can usually find me working in the lab or the Teaching Assistants’ office. When I was a student, my daily routine used to be running experiments during the day, and working on reading and writing in the evening. Now as a postdoc, I spend more time on writing papers, teaching, and working with junior students.**
+
+### **3. With such busy schedules, how do you manage your time? What are the top three on your priority list?**
+
+**My top three priorities are working on research proposals, papers, and meeting junior students. To keep up with these tasks, I like to plan ahead. Some people start working on a project or assignment right before the due date, I am also a "deadline fighter", but in a different way. When I need to complete assignments or projects, I often set many internal deadlines for myself, usually a few days ahead of the due date. I mark them clearly on my calendar, and make sure I observe the schedule and meet the deadlines. This is the way I keep my work organized and efficient.**
+
+### **4. How do you cope with stress and pressure?**
+
+**Outside work and research, I like playing basketball and watching the replay of NBA games. The basketball court is where I relieve my stress. I also talk to my girlfriend when I am stressed, who is always a good listener to my thoughts.**
+
+**I gradually realize that, as we gain experience through withstanding different situations and challenges, we become stronger, in turns, we can convert part of the stress and pressure into motivation.**
+
+### **5. What was the greatest challenge that you have encountered in your PhD journey, and how did you overcome it?**
+
+<<<<<<< HEAD
+\*\*One major challenge is about how to strike a balance between the scientific value and practical value of the research work. When we finish
+=======
+\*\*One major challenge is about how to strike a balance between the scientific value and practical value of the research work. When we finish
+
+> > > > > > > 71870c156c6c46f39bc9650a793fca190f8c1949

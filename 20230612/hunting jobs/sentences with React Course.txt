@@ -1,0 +1,17 @@
+## React rule
+1. Don't touch DOM.
+2. Build websites like lego blocks.
+3. Unidirectional data flow.
+4. UI, The rest is up to you.
+## Things what you must know as a React developer.
+How to become a best React developer. I can do.
+1. Decide on Components.
+Really good developers can decide how much components they have to break down and how they have to build reusable components.
+Deciding on how to break down the app into different components is a very important skill.
+2. Decide the State and where it lives.
+The State can live in different locations in virtual DOM, so decision where we put the state is very important in architecting our app. I mean placing state in appropriate component.
+3. What changes when state changes.
+I mean unessessary rerendering.
+## Asynchronous versus Synchronous
+In React, Synchronous action is something that we can expect to happen almost immediately.We wait for that thing to finish before it continues right running the rest of the code afterwards.
+Asynchronous action is something that actually takes an indefinite amount of time that JavaScript does not know.

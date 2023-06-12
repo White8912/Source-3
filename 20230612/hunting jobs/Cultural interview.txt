@@ -1,0 +1,181 @@
+
++++ Why do you want to work at this company?
+To show that you have spent some time researching their business. 
+
+I want to work at your comapny because you have a solid reputation for creating excellent products, for delivering outstanding service, and for also constantly innovating so that you stay at the cutting edge of what your customers and clients need.
+Because I spend so much time at work, I only want to work in an environment where I feel I am continually moving forward and developing.
+I spent some time researching your company before applying for the role and I was impressed with what I saw.
+It is evident that you have a positive workplace culture; you encourage your staff to be the best they can possibly be, and you allow everyone to contribute to the success of the business.
+I believe that, to be able to perform your duties and responsibilities as a frontend engineer competently, you need the support of your employer, and you also need to work with like-minded people who are all working towards a common goal.
+Druing my research into your organization, it soon became apparent that you are not only a leader within the industry, but you also continually look for ways to grow and develop.
+You also clearly hire some of the best people available, and this means I'll be working with other professionals who all genuinely care about the work they produce.
+I am someone who is ambitious; I don't like to **sit back** and just do the **bare minimum**, and if you hire me, I feel confident you will be impressed with my work values, ethics and high standards.
+
++++ What are your greatest strengths?
+
+Interesting.
+I have serveral key strengths that I believe will add value to your company.
+My discipline is a strength because it means I will always organize my work diligently and I will take ownership of important tasks and projects.
+I am naturally a positive & enthusiastic person, and this tends to rub off on other people in a team. My positive nature and resilience also means that I will always seek ways to quickly overcome difficult and challenging situations.
+Other strengths include my creativity. For example, when I worked at GE digital, I recommended to my manager that we should implement a new customer review facility on our website as this would help build trust between the business and potential customers.
+Finally, I am a loyal & dedicated person. If you hire me, I will represent your business in a positive way, I will stay working here for the long term, and you will always be able to trust me with important duties and responsibilities, safe in the knowledge they will be done to exacting standards.
+
++++ Why do you want to leave your job?
+
+I want to leave my job because I feel it is time for a change.
+I have reached my full potential there, and I now want to work for your company where I feel I will be pushed and challenged, and my diverse set of skills, qualities and experience will be put to good use.
+I have enjoyed working for my employer, they have been very supportive, but I am now ready for a fresh challenge.
+
++++ What do you consider to be your biggest weakness?
+
+That is tough question.
+-----
+My biggest weakness is that I don't yet have much experience talking in front of large groups of people. So, I am not very confident at presenting.
+However, this is an area I do want to develop, so if there are any opportunities within this role, and within your company to help me develop this skill, then I would certainly be open to that.
+-----
+We all have weaknesses, and I know my own is the fact I find it really hard to strike a healthy work-life balance.
+I love my job as a frontend engineer, and even when I am not at work, I am usually spending time with developing applications, additional skills and qualities so I continue to grow in the role, much to the dissatisfaction of my partner.
+This is an area I have been working to improve upon, and I am trying to spend more time relaxing with my family so I can then maintain optimum energy levels when I am at work.
+
++++ Why do you want this job?
+To focus my response on how this job is going to help I develop, give me a high level of job satisfaction.
+
+I want this job because it is the type of role that I genuinely love doing. I spend a lot of time at work, and I want that time to be put to good use.
+I feel I already have the skills and qualities to match the job description which means I can come into the role and start helping the team to make an immediate and positive impact.
+I also want this job becuase I believe it will give me lots of job satisfaction, and I will get to develop essential workplace skills that we all need to live a productive and fulfilling life.
+
++++ Tell me how you handled a difficult situation.
+
+Situation: I was working at Capgemini when I overheard a colleague talking abruptly to a customer on the telephone. My colleague was clearly stressed from the communication with the customer, and I had concerns that this could lead to a complaint.
+I was also concerned that this might not be the first time they had not followed company customer service procudures.
+Task: I felt it was my duty to speak to my colleague in private to express my concerns.
+This was a difficult situation because my colleague was more senior than me, and I knew they would take any criticism personally.
+Action: I considered carefully what I wanted to say and how I was going to say it. 
+I spoke to them in private to explain my concerns and how I felt they should have perhaps used an alternative style of communication.
+I went on to explain the reason why I felt it was important to offer great customer service, and I also highlighted that they could end up in trouble if a customer complaint came in.
+Result: After a few moments discussing the situation, my colleague agreed they needed to change their approach, and they thanked me for my honest feedback.
+
++++ Why should we hire you?
+To demonstrate why you are different from everyone else.
+
+You should hire me for several reasons.
+First, I am a very fast leaner. This means I will come into the role, I will learn everything quickly, and I will then contribute to my teams' objectives in the fastest time possible.
+Second, I will always take responsibility for my own standards of work. This means you won't have to spend your valuable time closely monitoring or supervising me.
+The third reason is, I have a good sense of business acumen. What I mean by this is, I appreciate that your business will only succeed if I represent the company positively, if I am frugal when using company resources, and that I ensure I am always assessing opportunities to help the company increase sales.
+Finally, you should hire me because I have a proven track record of achievement, and I will always take positive steps to develop professionally in the position.
+
++++ How would you deal with a member of your team who disagreed with the work you carried out as a frontend engineer?
+
+I have a lot of experience as a frontend engineer, and I feel the work I produce is to a very high standard. Having said that, I am also aware that when I do work as part of a team, it is important to listen to other people as they may have valid contributions to make.
+On that basis, I would certainly be open to listening to why they felt the work I was carrying out could be altered or improved.
+**At the end of the day**, we are all working for the same organization, and if it means changing the way I do things for the benefit of the team goal, I will certainly do that.
+
++++ In your opinion, what are the skills and qualities needed to be a frontend engineer?
+
+Whilst there are numerous skills and qualities needed, there are 9 in particular that are essential to becoming an effective frontend engineer.
+In no particular order, these are technical competence, communication and interpersonal skills whilst dealing with clients and internal team members, exceptional organizational and planning capabilities, a level of commercial awareness, and also an understanding of how important it is to maintain competence in my role through professional development.
+I also need an ability to expalin technical information in a simple and concise manner so people understand it, and **awarenes** of current isuues impacting the industry I am working in, and also strong analytical and attention to detail skills.
+
++++ Tell me a time when you worked as part of a team to solve a complex task?
+
+Situation: I was part of a multi-**agency** project building a web application for an important client. Towards the end of the project, we encountered a number of bugs and problems with the web application, and time was against us to get everything fixed before the official handover date.
+Task: I felt it was my responsibility to come up with a solution to get the issues fixed. I stayed behind late that evening with two other experienced team members to come up with a plan that would ensure the bugs were not only fully **rectified**, but that a support system was in place to respond to any future issues if they were to arise, post handover. 
+Action: We started off by creating a list of all bugs and issues. We then attempted to recreate each bug so that we could assess what was causing the issue.
+We managed to recreate all of the bugs and it was then my task to create a **timescale** for rectifying and testing each issue. Once we had a **plan in place**, we could then **allocate** tasks to team members based on their area of technical competence the following morning.
+Result: By creating a plan of action, and by working closely together as a team, we were able to tap into the combined team expertise and competence to not only provide a **time-sensitive** solution to the problem, but to also implement a support **mechanism** for our client.
+
++++ Tell me how you would handle the stress and pressure of being a frontend engineer?
+
+I manage stress in three ways. First and **foremost**, I ensure I plan my work well in advance, so I know what I need to do, and by what deadline. By having a plan in place, it means I work more efficiently and I can decide which tasks need my attention first.
+The second way I handle stress and pressue, is to make sure I work closely with other members of the team, and that communications is a constant theme throughout the day.
+Finally, I handle stress and pressure by making sure I **dedicate** some time each week to keeping **up-to-date** with developments from within the industry. This gives me the confidence in my role as a frontend engineer, and it also **eliminates** any unwelcome surprises when updates do come out or changes within the industry are released".
+
++++ How to handle multiple tasks? As a mentor yourself, how do you inspire developers?
+
+As a mentor to some young or non-experience developers, I usually share my own experience with them, hoping to bring them inspiration and help them realize their interests.
+I always lead them by examples and mistakes and place great emphasis on thorough testing. And then what is more important is to encourage them to grow and have a strong vision by themselves. I usually demanded that they usually keep developing themselves. And second, the important thing has to have a good appearance as a mentor.
+So I tried to keep my positive attitude and engage in honest, open communication, and care about everyone on my team.
+
++++ How to respond when you disagree with team members?
+
+When I started a project in GE Digital, one of my team members suggested to use a method of coding that I found inefficient. In this situation, I met him individually as we each laid out our plans for the project and the coding method that we found most useful.
+After our discussion, we both understood each other's suggestions and presented our ideas to the rest of the team members, which allowed everyone to voice their opinions. We were able to come to a mutal decision as a group.
+
++++ How can you handle multiple tasks?
+
+When I work in GE Digital, I was working for a important client fixing production issues.
+At that time my manager assigned me to develop interface for a new project.
+In this situation, I dedicated a day to organize and prioritize which tasks needed attention first, so that I could meet the dealines for both assignments. Having a plan in place, I managed my time efficiently and also delivered assignments ontime.
+
++++ How do you deal with unexpected changes to deadline?
+When I wored at GE Digital, my manager assigned me to increase app performance, in 3 weeks.
+However, deadline changed a few days later and I only had two weeks to complete task. While I was a little nervous about my ability to complete the task in time. I asked fellow team members for their advice and learned new strategy that allowed me to increase app performance and exceed my goal in two weeks.
+
++++ How to adapt new situation or environment?
+
+In this situation, I try to learn a lot as soon as possible. 
+If I face new environment, I will ask many questions and take notes about what I learned, reviewing them at the end of each workday. Eventually, I will become familiar with the systmes and I can adapt this environment quickly.
+
++++ What is your motivation to take a career transition and salary expectations in order to accept an offer with the Company (USD)?
+
+My motivation for considering a career transition is to take on new challenges and expand my skillset. I am attracted to the opportunities and growth potential offered by your company and I am confident that I can make a valuable contribution to your team.
+
+Regarding my salary expectations, I am open to discussing and negotiating a competitive compensation package that aligns with my skills, experience, and the responsibilities of the role. I would prefer to have a transparent conversation with you about the salary range and other benefits that you have in mind, so that we can reach a mutually beneficial agreement.
+
++++ How to say my work style and values that drive my decision making as a software engineer.
+
+As a software engineer, I approach my work with a strong focus on quality and attention to detail. I value efficiency and strive to find the most effective and efficient solutions to problems. I am also a strong believer in teamwork and collaboration, as I believe that a collective effort results in better outcomes. I enjoy working with others and always seek to share my knowledge and experience with my colleagues.
+
+My decision-making is driven by my commitment to delivering high-quality products that meet the needs of the user. I am constantly seeking ways to improve processes and identify areas for growth, and I am not afraid to take calculated risks to achieve better results. Above all, I believe in maintaining transparency and clear communication, both with my team and with stakeholders, to ensure that everyone is on the same page and working towards common goals.
+
++++ What you are looking for in your next role and what inspires you about the industries you are interested in.
+
+I am looking for a role that allows me to utilize my skills and experience, while also offering opportunities for growth and advancement. I am particularly interested in roles that challenge me to think creatively and outside of the box, and where I can contribute to a positive impact for the company and its customers.
+
+What inspires me about the industries I am interested in is the pace of innovation and the potential for making a real difference in people's lives. I am passionate about staying current with the latest developments and trends, and I believe that a career in [insert industry] offers limitless opportunities for learning and growth.
+
+Additionally, I am drawn to the values and culture of [insert company], and I am impressed by the company's commitment to [insert company's mission or values]. I am excited about the possibility of working with a team of talented professionals who share my passion and drive, and I believe that I can bring value to the organization through my skills and experience.
+
+### What you are looking for in your next opportunity as a front end engineer?
+
+In my next opportunity as a front-end engineer, I am seeking a dynamic and challenging work environment where I can leverage my technical skills to make a significant impact on both the company and its customers. Some key factors that I am looking for include:
+
+Opportunities for technical growth: I am seeking a company that is at the forefront of innovation in the front-end development space, and that provides opportunities for me to continuously develop my technical skills and stay up-to-date with the latest technologies and industry trends.
+
+Collaborative team environment: Effective collaboration is essential to delivering high-quality products. I am looking for a company that values teamwork and fosters an environment of open communication and mutual respect among its engineers.
+
+Impactful projects: I am eager to work on projects that have a tangible impact on users and drive business outcomes. I am looking for a company that values its engineers' contributions and provides opportunities to work on meaningful projects that drive real results.
+
+Positive company culture: Company culture is a critical factor in job satisfaction and long-term success. I am seeking a company that values transparency, diversity, and inclusiveness and has a supportive work environment that promotes professional growth.
+
+Leadership opportunities: I am eager to take on more responsibility and grow into a leadership role. I am looking for a company that values employee development and provides opportunities for engineers to take on leadership responsibilities and drive meaningful change.
+
+Overall, I am seeking a challenging and rewarding opportunity that allows me to apply my technical skills to make a positive impact on the company and its customers, and to continue growing as a front-end engineer.
+
+
+### Why Univers? Tell us what drew you to apply for this role at our company.
+
+I was drawn to apply for the front-end engineer role at Univers for several reasons:
+
+Exciting technology: I was impressed by the innovative and cutting-edge technology that Univers is utilizing to develop its products. I am eager to be a part of a company that is pushing the boundaries in the industry and making a real impact on its customers.
+
+Strong company culture: I believe that company culture is a critical factor in job satisfaction and long-term success. I was impressed by the positive and supportive work environment at Univers, and I am eager to be a part of a company that values transparency, diversity, and inclusiveness.
+
+Opportunity for impact: I was drawn to the opportunity to work on impactful projects that have a tangible impact on users and drive business outcomes. I am eager to apply my technical skills to deliver real results and make a meaningful difference at Univers.
+
+Reputation: Univers has a well-established reputation in the industry, and I was drawn to the opportunity to work with talented and experienced engineers and contribute to the company's success.
+
+Alignment with my career goals: I am eager to continue learning and growing as a front-end engineer, and I believe that Univers provides the ideal environment for professional growth and development.
+
+Overall, I am excited about the opportunity to join Univers and make a positive impact on the company and its customers. I am confident that this role will provide me with the challenges and opportunities I am looking for to continue growing as a front-end engineer.
+
+### Tell us about your interest in front end software engineer role and Agile Six.
+
+"I'm very interested in the Front End Software Engineer role because I'm passionate about building user-friendly web applications and developing responsive user interfaces. As an experienced developer, I have had the opportunity to work with a range of front end technologies such as HTML, CSS, JavaScript, and modern JavaScript frameworks like React and Vue.js. I am excited about the opportunity to bring my skills and experience to this role and contribute to building cutting-edge web applications.
+
+In terms of Agile Six, I have used the Agile methodology in previous roles and have found it to be an effective way to manage projects and ensure that development efforts are aligned with business objectives. I appreciate the focus on collaboration, iterative development, and rapid feedback cycles that Agile brings, which leads to a higher quality end product. I believe my experience with Agile Six will enable me to quickly adapt to the team's existing workflows and contribute to project success."
+
+
+### What is your motivation to take a career transition and salary expectations in order to accept an offer with the Company (USD)?
+
+My motivation to take a career transition is to pursue new challenges and opportunities to learn and grow professionally. I am looking for a role that aligns with my values, interests, and skills, and that offers a supportive work environment and career advancement prospects. In terms of salary expectations, I am open to negotiation and willing to consider a reasonable offer that reflects my experience, qualifications, and the market rate for the role. Ultimately, my main goal is to find a company that I can contribute to and that values and invests in its employees.

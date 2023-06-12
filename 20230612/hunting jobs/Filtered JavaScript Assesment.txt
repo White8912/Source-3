@@ -1,0 +1,37 @@
+1. Tell me about a new technology. Why did you leverage the technology and what was the benefit?
+
+One new technology for JavaScript that has gained popularity recently is React.js. React is a JavaScript library used for building user interfaces or UI components. It was developed by Facebook and is now widely used by developers around the world.
+
+I leveraged React.js in a recent project because of its ability to handle complex UI components with ease. React's Virtual DOM makes it possible to efficiently update the UI without having to reload the entire page. This results in faster rendering times, which is essential for a great user experience.
+
+Another benefit of using React is its modular approach to UI development. React components can be easily reused across different parts of the application, making it easier to maintain and scale the application over time. This also helps in reducing the amount of code required to build a complex UI.
+
+In addition to the above, React also provides a robust set of tools and community support, which helps in building high-quality applications faster.
+
+Overall, leveraging React.js in my project allowed me to develop a more efficient and maintainable application, with a better user experience for my end-users.
+
+2. Why do you want to work at Monsanto/Bayer Crop Science? (this is why it is important you view Monsanto “about us” video links)
+
+"I am excited about the opportunity to work at Monsanto/Bayer Crop Science as a full stack engineer because I am passionate about the intersection of technology and agriculture. I believe that my skills in software development and my interest in sustainable farming practices align well with the company's mission to improve agriculture while protecting the environment."
+
+"After watching Monsanto/Bayer Crop Science's 'about us' video, I was impressed by the company's commitment to innovation and the development of technology solutions to address pressing issues in agriculture. As a full stack engineer, I am excited to be a part of a team that is working towards these goals and making a positive impact in the industry."
+
+"I believe that my skills in full stack development, coupled with my passion for agriculture, make me an excellent fit for Monsanto/Bayer Crop Science. I am excited about the opportunity to contribute to the development of software products that can enhance farming practices and help farmers increase their productivity while reducing their environmental impact."
+
+3. Tell us about a challenge /problem you recently faced on a project. How did you approach solving it and what was the outcome?
+
+In my recent project, building an e-commerce website using React, NodeJS, and AWS, one of the biggest challenges I faced was optimizing the website's performance using React. The website was taking longer than expected to load, which was affecting the user experience.
+
+To tackle this challenge, I started by analyzing the website's code and identifying areas that could be optimized. I used performance monitoring tools like Lighthouse and PageSpeed Insights to gain insights into the website's performance metrics and to identify areas that needed improvement.
+
+After identifying the performance bottlenecks, I implemented several strategies to optimize the website's loading speed. These included minimizing the size of the images and other media files, using caching techniques to reduce the number of server requests, and compressing the website's files to reduce the page load time.
+
+As a result of these efforts, the website's performance significantly improved, with the page load time reduced by almost 50%. This resulted in a much-improved user experience, with faster load times and smoother navigation throughout the website.
+
+Also, in a recent project that involved building a RESTful API using NodeJS, I faced a challenge with handling errors that occurred during the API calls. The API was expected to handle a large number of requests, and it was essential to provide appropriate error messages to the client in case of any errors.
+
+To tackle this challenge, I started by reviewing the API code to identify all the possible errors that could occur during the API calls. I also researched online forums and documentation to learn more about best practices for handling errors in NodeJS applications.
+
+After some investigation, I realized that the issue was caused by the inconsistent error handling approach used in the codebase. To solve this, I implemented a standardized error handling mechanism that used HTTP status codes and error messages to provide clear and consistent error messages to the client.
+
+The outcome of this approach was that the API's error handling became more reliable and consistent, and clients were able to understand the errors better, which helped them to troubleshoot issues more effectively. This resulted in a much better user experience and improved the overall success of the project.

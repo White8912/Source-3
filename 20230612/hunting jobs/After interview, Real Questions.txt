@@ -1,0 +1,129 @@
+Reference AI, and Googling
+Case Questions -> in my thought.
+Methods.
+* when I make a call with recruiter how to ask his name and missing part and more details in the interview and call
+* how to increase the time I can think when I don't know this question which the interviewer asks in the interview and call "Let's think about"
+* how to ask hiring process, background test, drug screening, fingure print for TCS and other company.
+* how to tell your intro as a frontend engineer, developer, backend engineer, developer, full stack engineer, developer, software engineer (order, between one part and other part)
+* how to tell your current project description as a frontend engineer, developer, backend engineer, developer, full stack engineer, developer, software engineer : (React focus), (React, Node, AWS focus), (Node focus), (Rect, Python focus)..................
+* When the interview(recruiter, hr, CTO, CEO) ask "Do you have any questions", how can I respond? After I ask my quesionts, any other questions? -> how to respond?
+* how to ask when I don't understand the part which the interviewer (recruiter, HR, CTO, CEO) asks and says
+* When the interview asks "how many years of experience do you have like using React?", how can I answer?
+* how to respond for "Are you comfortable with that?" , if yes or no?
+* When I want that the interview send me an invite, how to ask?
+* When I want to share my resume to the recruiter, how to say, write?
+* When the interviewer wants to share my resume, confirm, how to say, write?
+* If I don't want to continue this call, how to say?
+* If another call is ringing, how to say?
+* When I have an interview, I think this position isn't good fit for me, hot to say and write?
+* how to ask when I can't listen the voice in the interview and call?
+* how to say when I have poor connection, or I have a technical issues?
+* how to say if I want to say I remember the some thing and I don't remember the some thing.
+* how to ask if I want to see the JD.
+* how to answer if the person asks me "Am I speaking with James?".
+* how to say when I have a call first.
+* how to increase the time when you are looking for some thing in the video interview, and call? "I am trying to find something, just a second..."
+* how to say when the recruiter asks "are you looking for W2"? I usually answer "W2", I want to know better method.
+* what are agree sign: Ok, Yes, All right, right, correct, very interesting, sounds good...
+* how to answer when the recruiter asks "Will you nor or in the future require any type of sponsorship"? I usually answer "No, I am a USC", right? And what are sponsorship, visa, green card holder, and USC?
+* how to answer when the recruiter asks "Are you looking for a contract or full time, or are you open to either?"
+* hybrid, onsite, remote work style.
+* how to say "I am only looking for a fully remote position" more professionally. question: Are you ok with remote or hybrid or either?
+* how to say "what are you looking for hourly or annually for salary more professionally.
+* how to say and write my availability for the interview and call.
+* how to say and write "I think this position is a good fit for me or isn't a good fit for me" more professionally.
+* how to say "I am checkig my Inbox" more professionally after someone send me an email.
+* how to respond when someone says his apologize and sorry. "No worries, no problem, no issues..."
+* Is it right? when the recruiter asks me "what's your current situation in the job market". I say "The duration of the contract will be ended this month", is it right, if no, suggest more professinoal methods.
+* how to respond when the recruiter asks me lower rate than rate that I spoke already. "65 USD, 55 USD"
+* how to say my team and working environment...
+* how to say startup company experience (your first company is startup, reference with this, advantage, your experience)
+
+
+
+Common
+1. What is going to be ending job?
+(both contract, full-time reason -> they don't have any projects)
+2. Have you had any other role except this role recently?
+3. Where are you located in currently?
+4. Have you been working in US long time?
+5. What is your languages the mostcomfortable working with?
+6. How many years have you worked with  JS?
+7. What is your target compensation? What is your salary range?
+8. How do you over come hybrid position when you want to work on fully remote position?
+9. What is your salary expectation? (Full time, contract)
+10. Are you available for the public trust clearance eligible? 
+11. I'd love to hear what kind of inspire you to apply for this position?
+12. Do you have any certifications on those your skills?
+13. Are you interested in market your profile?
+14. How can I answer what are your strength as a fornt end or backend.
+	first case: this is more front end.
+	second case: this is more back end.
+	(my case: I said "I am good at both, I am more front end. 60% for front end and 40% for back end.)
+15. What are you looking for a next role?
+16. How can I say greetings when the interview gets started and ended in a remote?
+17. How can I say after interviewee finished explanation?
+18. How can I answer what's the reason you are looking for a new job? Why do you want to leave your company as a  contractor, or pernamant role?
+19. How can I answer about "Are you looking for full time or contract work?"?
+20. What are you targeting from an anually salary?
+21. After the interview, how can I answer about "Do you have any question for me - recruiter, hr, CTO, CEO?
+22. How will you rank yourself in each technology as a senior software engineer. technologies: React, JavaScript, TypeScript, NodeJS, AWS, MySQL
+23. What is the recent project you worked on React.js? How did you collect the requirements, how did you design the page, how did you connect to the service backend services? Can you brief me through what you did?
+24. How can you optimize your controls in React?
+25. In coding assessment, how can I explain the code, and process?
+26. In hr, tech, and cultural interview, what are important thing?
+
+Experience
+1. Could you tell me about your experience with responsive design?
+(what is the project? e.x. e-commerce, retail -> what type of industries)
+2. Can you tell me more about your REST APIs experience? (role, project)
+3. Can you tell me about your Node.js experience?
+4. Can you tell me about your SEO and SSR experience?
+5. Do you have experience with UX/UI designers? more detail.
+6. Could you tell me about your experience with Figma&*Ambition*?
+7. Could you tell me about experience with debugging, platform, testing?
+8. Could you tell me about QA?
+9. Could you tell me about Adobe Experience Manager? (AEM)
+10. What are your priorities when you are looking for job change?
+11. Application performance management and observability tools. Find issues in own code before it becomes a problem for their own customers.
+12. Can you tell me about spending time with typescript?
+
+
+1. How would you describe your approach to solving problems? 
+2. Could you talk about your experience with design systems?
+3. In recent project, how would you manage styles?
+I trust my team. I start out every project by making sure that I give clear directions and outline our overall goals, but I make a real effort not to micromanage. I prefer to remain hands-off when it comes to individual tasks, but at the same time, I'm always available for help, guidance and assistance. I was on a large software project a few years ago that had 15 team members each working on a separate piece of code that would eventually get put together into one large program. Rather than have people start and stop work to participate in group sessions, I set up a communication board that allowed us to message instantly either as a group or individually. I also included a status update section where we could post what we were all working on and how it was going. It allowed me to stay up to date on every aspect of the project without being intrusive and gave us all a way to work together. It also made it possible for anyone to reach me at any time with issues and problems, allowing us to problem solve quickly. The entire program was finished on time and the board was such a successful idea that I now use it with every project I work on.
+4. How do you manage stress among your team members?
+5. How do you handle conflict between team members?
+6. How do you motivate people?
+7. What is your bieggest management weakness?
+8. How do you approach collaborations? When you add a team, you need to work and collaborate with product designers and engineers. How do you describe your product to seeking collaborations when it comes down to different multiple disciplines?
+9. Do you any questions? role, company, team memebers, etc.
+10. Why do the recruiters ask me confirm RTR email?
+
+Q1. Candidate authorization to work in the USA? * US Citizen
+
+Q2. How many years of experience does the candidate have with Angular, React, D3, HTML5, Redux, Bootstrap, and Node.js? (Please ensure yrs of experience are individually mentioned for each skill in the answer). * 
+ 
+Q3. Please mark all the server-side programming that the candidate has experience with. (Make sure the resume compliments the answer) * 
+Python 
+Flask 
+Django 
+ 
+Q4. Please explain the experience that the candidate has with SQL and relational databases. * 
+ 
+Q5. Has the candidate created high-quality web-based user interfaces? * (Yes or no) 
+ 
+C1. Is the candidate consent form attached in the same format as that of the Sample Format? * (Yes or no) 
+ 
+C2. Please provide the LinkedIn profile link of the candidate. * 
+ 
+C3. If the candidate's LinkedIn profile is verified, kindly confirm the no. of connections on LinkedIn. * 
+ 
+C4. Do the candidates work experience on LinkedIn complement his/her resume? * (Yes or no) 
+ 
+C5. Briefly mention the candidates’ roles and responsibilities of previous or current employment. (Kindly ensure this is not a copy-paste from the resume) * 
+ 
+C6. Is the candidate willing to share any photo identity proof? (This is done just to check on the Candidate not being fake) * (Yes or No) 
+ 
+C7. Kindly confirm if the photo ID is attached under the candidate’s profile. * (Yes or no) 

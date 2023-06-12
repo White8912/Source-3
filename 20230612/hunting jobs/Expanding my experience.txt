@@ -1,0 +1,23 @@
+## Expanding.
+Working on a front end engineer has usually complex process if not a complicated one. In this point, I am going to highlight the optimizing performance experience on developing e-commerce website.
+As a senior front end engineer at GE Digital, I try to keep on top of the progress in front-end technology as best I can.
+
+### Temp
+Start with an introduction: Begin by introducing the project you worked on and your role in it. For example, "I had the opportunity to work on an e-commerce website that used React for UI, NodeJS for server-side logic, and AWS for hosting and deploying. As a senior software engineer, I played a key role in developing the website's features and ensuring its smooth operation."
+
+Describe the project: Next, provide an overview of the project, highlighting its key features and functionalities. You can discuss the website's design, user experience, and technical architecture. For example, "The e-commerce website we built had a modern and user-friendly design, with a responsive UI that worked seamlessly across different devices. We implemented features such as a product catalog, shopping cart, and checkout process, all of which were backed by a powerful NodeJS backend."
+
+Discuss your experience: After describing the project, talk about your experience working on it. Highlight any challenges you faced and how you overcame them. Discuss any innovative solutions you developed or any best practices you followed. For example, "Working on this project was a challenging but rewarding experience. One of the biggest challenges we faced was optimizing the website's performance to handle a large volume of traffic. To address this, we implemented caching strategies, load balancers, and optimized our database queries. We also followed industry best practices such as code reviews, automated testing, and continuous integration and deployment."
+
+Conclude with key takeaways: Finally, wrap up your description with key takeaways from the project, including what you learned and how you contributed to the project's success. For example, "Overall, working on this e-commerce website was a valuable learning experience that helped me develop my skills in React, NodeJS, and AWS. I am proud to have been part of a team that delivered a high-quality website that met the needs of our clients and their customers."
+
+### Healthcare project
+Sure, I'd be happy to discuss a recent project I worked on. It was a software development project for a large healthcare provider, and I was the lead developer. My main goal was to develop a patient management system that would help streamline the provider's processes and improve patient care.
+
+To achieve this, I worked closely with the client to gather requirements and develop a detailed project plan. We faced some challenges along the way, such as scope creep and changing requirements, but we were able to overcome them by maintaining open lines of communication and being flexible.
+
+Ultimately, we were able to deliver the project on time and within budget. The patient management system we developed has already been implemented and is helping the healthcare provider improve patient care and increase efficiency.
+
+I believe that my experience on this project is directly relevant to the software engineering position I am applying for. I have developed a strong understanding of the software development lifecycle and have experience working on complex projects with multiple stakeholders. I am confident that I can use what I've learned to make a valuable contribution to your team.
+
+

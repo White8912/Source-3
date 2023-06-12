@@ -1,0 +1,9 @@
+Professional GCP experience in hotel booking system with example answer
+
+One example of using GCP services in our hotel booking system is with Cloud Functions. We use Cloud Functions to trigger a notification to our customer service team whenever a customer books a room ensuring timely customer support. This serverless approach allows us to handle high traffic and spikes in usage without worrying about server capacity or downtime.
+
+We also use GCP's Kubernetes Engine to deploy and manage our microservices architecture. By containerizing our services and deploying them on Kubernetes Engine, we can easily scale up or sown based on demand and we can deploy updates without any downtime. Additionally, we use GCP's Cloud SQL for database management, which ensures automatic backups and high availability.
+
+Another example of using GCP services in our hotel booking system is with BigQuery. We use BigQuery to store and analyze large amounts of booking data, allowing us to gain insights into customer preferences and behaviors. We also use Gooogle Cloud Pub/Sub to stream booking data in real-time to our data pipeline, which then feeds into our machine learning models. This allows us to predict customer demand and optimize pricing strategies.
+
+In addition to these services, we also prioritize security in our hotel booking system. We use GCP's Identity and Access Management (IAM) to manage access to our resources and enforce least privilege principles. We also leverage GCP's Security Command Center for continous security monitoring and Cloud Security Scanner to identify and fix vulnerabilities.

@@ -1,0 +1,563 @@
+# React Technical Questions and Answers
+
+### Table of Contents
+
+| No. | Questions                                                                                                               |
+| --- | ----------------------------------------------------------------------------------------------------------------------- |
+|     | **Core React**                                                                                                          |
+| 1   | [What is React?](#what-is-react)                                                                                        |
+| 2   | [What are the major features of React?](#what-are-the-major-features-of-react)                                          |
+| 3.  | [Can web browsers read JSX directly?](#can-web-browsers-read-jsx-directly)                                              |
+| 4.  | [What is the virtual DOM?](#what-is-the-virtual-dom)                                                                    |
+| 5.  | [Why use React instead of other frameworks, like Angular?](#why-use-react-instead-of-other-frameworks,-like-angular)    |
+| 6.  | [What is the difference between the ES6 and ES5 standards](#what-is-the-difference-between-the-es6-and-es5-standards)   |
+| 7.  | [What is an event in React?](#what-is-an-event-in-react)                                                                |
+| 8.  | [What are synthetic events in React?](#what-are-synthetic-events-in-react)                                              |
+| 9.  | [What is an arrow function and how is it used in React?](#what-is-an-arrow-function-and-how-is-it-used-in-react?)       |
+| 10. | [How is React different from Angular?](#how-is-teact-different-from-angular)                                            |
+| 11. | [Functional vs Class components](#functional-vs-class-components)                                                       |
+| 12. | [Benefits of Functional Components](#benefits-of-functional-components)                                                 |
+| 13. | [What is state in React?](#what-is-state-in-react)                                                                      |
+| 14. | [What are props in React?](#what-are-props-in-react)                                                                    |
+| 15. | [Props vs State](#props-vs-state)                                                                                       |
+| 16. | [High Order Component](#high-order-component)                                                                           |
+| 17. | [for in-vs for of](#for-in-vs-for-of)                                                                                   |
+| 18. | [Explain the lifecycle methods of components](#explain-the-lifecycle-methods-of-components)                             |
+| 19. | [What is Redux?](#what-is-redux)                                                                                        |
+| 20. | [What are the components of Redux?](#what-are-the-components-of-redux?)                                                 |
+| 21. | [What is the Flux?](#what-is-the-flux?)                                                                                 |
+| 22. | [Redux vs Flux](#redux-vs-flux)                                                                                         |
+| 23. | [React Router](#react-router)                                                                                           |
+| 24. | [How-is React routing different from conventional routing?](#how-is-React-routing-different-from-conventional-routing?) |
+| 25. | [Redux Thunk](#redux-thunk)                                                                                             |
+| 26. | [Redux Saga](#redux-saga)                                                                                               |
+| 27. | [Saga vsThunk](#saga-vs-thunk)                                                                                          |
+| 28. | [flux](#flux)                                                                                                           |
+| 29. | [Context API](#context-api)                                                                                             |
+| 30. | [Redux vs Context-API](#redux-vs-context-api)                                                                           |
+| 31. | [Refs](#refs)                                                                                                           |
+| 32. | [Forwarding refs.](#forwarding-refs.)                                                                                   |
+| 33. | [Controlled component vs Uncontrolled component](#controlled-component-vs-uncontrolled-component)                       |
+| 34. | [React Fragment](#react-fragment)                                                                                       |
+| 35. | [Jest](#jest)                                                                                                           |
+| 36. | [Pure Component and Function](#pure-component-and-function)                                                             |
+| 37. | [React Strict Mode](#react-strict-mode)                                                                                 |
+| 38. | [WebPack.](#webPack.)                                                                                                   |
+| 39. | [UseMemo](#useMemo)                                                                                                     |
+| 40. | [useCallback](#usecallback)                                                                                             |
+| 41. | [useCallback vs useMemo](#usecallback-vs-useMemo)                                                                       |
+| 42. | [useRef](#useref)                                                                                                       |
+| 43. | [Lazy Loading](#lazy-loading)                                                                                           |
+| 44. | [Ways to Optimize Your Functional React Components](#ways-to-optimize-your-functional-react-components)                 |
+| 45. | [how page loading optimized](#how-page-loading-optimized)                                                               |
+| 46. | [CORS](#cors)                                                                                                           |
+| 47. | [Get vs Post vs Put](#get-vs-post-vs-put)                                                                               |
+| 48. | [Local Storage vs Session vs Cookie](#local-storage-vs-session-vs-cookie)                                               |
+| 49. | [CSR and SSR](#scr-and-ssr)                                                                                             |
+| 50. | [Promise](#promise)                                                                                                     |
+| 51. | [Callback](#callback)                                                                                                   |
+| 52. | [Hoisting](#hoisting)                                                                                                   |
+| 53. | [AJAX](#ajax)                                                                                                           |
+| 54. | [Async await](#async-await)                                                                                             |
+| 55. | [generator](#generator)                                                                                                 |
+| 56. | [Closure](#closure)                                                                                                     |
+| 57. | [let var const](#let-var-const)                                                                                         |
+| 58. | [AWS Services](#aws-services)                                                                                           |
+| 59. | [benefits of typescript in react](#benefits-of-typescript-in-react)                                                     |
+| 60. | [Event Handling](#event-handling)                                                                                       |
+| 61. | [Error bundaries in React](#Error-bundaries-in-React)                                                                   |
+
+1. ### What is React?
+
+   React is an **open-source front-end JavaScript library** that is used for building user interfaces, especially for single-page applications. It is used for handling view layer for web and mobile apps. React was created by | |[Jordan Walke](https://github.com/jordwalke), a software engineer working for Facebook. React was first deployed on Facebook's News Feed in 2011 and on Instagram in 2012.
+
+   **[⬆ Back to Top](#table-of-contents)**
+
+2. ### What are the major features of React?
+
+   The major features of React are:
+
+   - It uses **VirtualDOM** instead of RealDOM considering that RealDOM manipulations are expensive.
+   - Supports **server-side rendering**.
+   - Follows **Unidirectional** data flow or data binding.
+   - Uses **reusable/composable** UI components to develop the view.
+
+   **[⬆ Back to Top](#table-of-contents)**
+
+3. ### Can web browsers read JSX directly?
+
+   - Web browsers cannot read JSX directly. This is because they are built to only read regular JS objects and JSX is not a regular JavaScript object
+   - For a web browser to read a JSX file, the file needs to be transformed into a regular JavaScript object. For this, we use Babel
+
+   **[⬆ Back to Top](#table-of-contents)**
+
+4. ### What is the virtual DOM?
+
+   - DOM stands for Document Object Model.
+   - The DOM represents an HTML document with a logical tree structure. Each branch of the tree ends in a node, and each node contains objects.
+     React keeps a lightweight representation of the real DOM in the memory, and that is known as the virtual DOM. When the state of an object changes, the virtual DOM \* changes only that object in the real DOM, rather than updating all the objects.
+
+   **[⬆ Back to Top](#table-of-contents)**
+
+5. ### Why use React instead of other frameworks, like Angular?
+
+   - Easy creation of dynamic applications: React makes it easier to create dynamic web applications because it provides less coding and provides more functionality, whereas, with JavaScript applications, code tends to get complex very quickly.
+   - Improved performance: React uses virtual DOM, which makes web applications perform faster. Virtual DOM compares its previous state and updates only those components in the real DOM, whose states have changed, rather than updating all the components — like conventional web applications.
+   - Reusable components: Components are the building blocks of any React application, and a single app usually consists of multiple components. These components have their own logic and controls, and they can be reused through the application, which, in turn, dramatically reduces the development time of an application.
+   - Unidirectional data flow: React follows a unidirectional data flow. This means that when designing a React app, we often nest child components within parent components. And since the data flows in a single direction, it becomes easier to debug errors and know where the problem occurs in an application at the moment.
+   - Dedicated tools for easy debugging: Facebook has released a chrome extension that we can use to debug React applications. This makes the process of debugging React to web applications faster and easier.
+
+   **[⬆ Back to Top](#table-of-contents)**
+
+6. ### What is the difference between the ES6 and ES5 standards?
+
+   - Components and Function
+   - exports vs export
+   - require vs import
+
+   **[⬆ Back to Top](#table-of-contents)**
+
+7. ### What is an event in React?
+
+   An event is an action that a user or system may trigger, such as pressing a key, a mouse click, etc.
+
+   - React events are named using camelCase, rather than lowercase in HTML.
+   - With JSX, you pass a function as the event handler, rather than a string in HTML.
+
+   **[⬆ Back to Top](#table-of-contents)**
+
+8. ### What are synthetic events in React?
+
+   - Synthetic events combine the response of different browser's native events into one API, ensuring that the events are consistent across different browsers.
+   - The application is consistent regardless of the browser it is running in. Here, preventDefault is a synthetic event.
+
+   **[⬆ Back to Top](#table-of-contents)**
+
+9. ### What is an arrow function and how is it used in React?
+
+   Arrow function is one of the features introduced in ES6 in Javascript.
+   It allows to create functions in a cleaner way compared to regular functions.
+   Difference between arrow and regualar function
+   * Syntax
+   * Argument binding
+   * Use of this keyword Unlike R.F, arrow function do not have their own this keyword.
+   * usage of new keyword Arrow function can use new keyword to call.
+
+   **[⬆ Back to Top](#table-of-contents)**
+
+10. ### How is React different from Angular?
+
+    ![image](https://user-images.githubusercontent.com/60874384/160733511-3a711088-a4de-440e-8a5e-585acb4143bd.png)
+
+    **[⬆ Back to Top](#table-of-contents)**
+
+11. ### Functional vs Class components
+
+    ![image](https://user-images.githubusercontent.com/60874384/160733624-06538c42-b98c-44a2-b04c-4fee5d301f63.png)
+    **[⬆ Back to Top](#table-of-contents)**
+
+12. ### benefits of Functional Components
+
+    - Functional component are much easier to read and test because they
+      are plain JavaScript functions without state or lifecycle-hooks
+    - You end up with less code
+    - It will get easier to separate container and presentational components because you need to think more about your component’s state if you don’t have access to setState() in your component
+    - The React team mentioned that there may be a performance boost for functional component in future React versions
+    - There is one difference is the syntax. A functional component is just a plain JavaScript function which accepts props as an argument and returns a React element. A class component requires you to extend from React.Component and create a render function which returns a React element. This requires more code but will also give some benefits
+
+    **[⬆ Back to Top](#table-of-contents)**
+
+13. ### What is state in React?
+
+    - The state is a built-in React object that is used to contain data or information about the component. The state in a component can change over time, and whenever it changes, the component re-renders.
+    - The change in state can happen as a response to user action or system-generated events. It determines the behavior of the component and how it will render.
+
+    **[⬆ Back to Top](#table-of-contents)**
+
+14. ### What are props in React?
+
+    - Props are short for Properties. It is a React built-in object that stores the value of attributes of a tag and works similarly to HTML attributes.
+    - Props provide a way to pass data from one component to another component. Props are passed to the component in the same way as arguments are passed in a function.
+
+    **[⬆ Back to Top](#table-of-contents)**
+
+15. ### Props vs State
+
+    ![image](https://user-images.githubusercontent.com/60874384/160734176-506d7c36-9858-46a6-a7aa-047627f94d8f.png)
+
+    **[⬆ Back to Top](#table-of-contents)**
+
+16. ### High Order Component
+
+    A higher-order component (HOC) is an advanced element for reusing logic in React components. Components take one or more components as arguments, and return a new upgraded component. Sounds familiar, right? They are similar to higher-order functions, which take some functions as an argument and produce a new function.
+
+    HOCs are commonly used to design components with certain shared behavior in a way that makes them connected differently than normal state-to-props pattern.
+
+    **[⬆ Back to Top](#table-of-contents)**
+
+17. ### for in vs for of
+
+    - for in iterate the key
+    - for of itereate the value
+
+    **[⬆ Back to Top](#table-of-contents)**
+
+18. ### Explain the lifecycle methods of components.
+
+    - getInitialState(): This is executed before the creation of the component.
+    - componentDidMount(): Is executed when the component gets rendered and placed on the DOM.
+    - shouldComponentUpdate(): Is invoked when a component determines changes to the DOM and returns a “true” or “false” value based on certain conditions.
+    - componentDidUpdate(): Is invoked immediately after rendering takes place.
+    - componentWillUnmount(): Is invoked immediately before a component is destroyed and unmounted permanently.
+
+    **[⬆ Back to Top](#table-of-contents)**
+
+19. ### What is Redux?
+
+    Redux is an open-source, JavaScript library used to manage the application state. React uses Redux to build the user interface. It is a predictable state container for JavaScript applications and is used for the entire application’s state management.
+
+20. ### What are the components of Redux?
+
+    - Store: Holds the state of the application.
+    - Action: The source information for the store.
+    - Reducer: Specifies how the application's state changes in response to actions sent to the store.
+
+    **[⬆ Back to Top](#table-of-contents)**
+
+21. ### What is the Flux?
+
+    - Flux is the application architecture that Facebook uses for building web applications. It is a method of handling complex data inside a client-side application and manages how data flows in a React application.
+    - There is a single source of data (the store) and triggering certain actions is the only way way to update them.The actions call the dispatcher, and then the store is triggered and updated with their own data accordingly.
+    - When a dispatch has been triggered, and the store updates, it will emit a change event that the views can rerender accordingly.
+
+    **[⬆ Back to Top](#table-of-contents)**
+
+22. ### Redux vs Flux
+
+    ![image](https://user-images.githubusercontent.com/60874384/160964203-04122f13-8ada-4ae9-873e-855ef13b297f.png)
+
+    **[⬆ Back to Top](#table-of-contents)**
+
+23. ### React Router
+
+    - It maintains consistent structure and behavior and is used to develop single-page web applications.
+    - Enables multiple views in a single application by defining multiple routes in the React application.
+
+    **[⬆ Back to Top](#table-of-contents)**
+
+24. ### How is React routing different from conventional routing?
+
+    ![image](https://user-images.githubusercontent.com/60874384/160964293-ea8e7d8a-77cf-4c0d-9f47-161b41d3a38b.png)
+
+    **[⬆ Back to Top](#table-of-contents)**
+
+25. ### Redux Thunk
+
+    Redux Thunk is a middleware that lets you call action creators that return a function instead of an action object. That function receives the store’s dispatch method, which is then used to dispatch regular synchronous actions inside the function’s body once the asynchronous operations have been completed.
+
+    **[⬆ Back to Top](#table-of-contents)**
+
+26. ### Redux Saga
+
+    Redux Saga is a middleware library used to allow a Redux store to interact with resources outside of itself asynchronously. This includes making HTTP requests to external services, accessing browser storage, and executing I/O operations. These operations are also known as side effects. Redux Saga helps to organize these side effects in a way that is easier to manage.
+
+    **[⬆ Back to Top](#table-of-contents)**
+
+27. ### Saga vs Thunk
+
+    ![image](https://user-images.githubusercontent.com/60874384/160965541-c230e0ff-51e8-4f77-adbe-4a0039c70a42.png)
+
+    **[⬆ Back to Top](#table-of-contents)**
+
+28. ### flux
+
+    Flux is a pattern for managing how data flows through a React application. As we've seen, the preferred method of working with React components is through passing data from one parent component to it's children components. The Flux pattern makes this model the default method for handling data.
+
+    **[⬆ Back to Top](#table-of-contents)**
+
+29. ### Context API
+
+    The React Context API is a way for a React app to effectively produce global variables that can be passed around. This is the alternative to "prop drilling" or moving props from grandparent to child to parent, and so on. Context is also touted as an easier, lighter approach to state management using Redux.
+
+    Context API is a (kind of) new feature added in version 16.3 of React that allows one to share state across the entire app (or part of it) lightly and with ease.
+
+    **[⬆ Back to Top](#table-of-contents)**
+
+30. ### Redux vs Context API
+
+    ![image](https://user-images.githubusercontent.com/60874384/160965809-8f6967ca-4ed3-4ebf-87e9-8e5184655579.png)
+
+    ![image](https://user-images.githubusercontent.com/60874384/160966060-7e1e51c2-9c6d-43c0-a896-c491d7beff2f.png)
+
+    **[⬆ Back to Top](#table-of-contents)**
+
+31. ### Refs
+
+    Refs provide a way to access DOM nodes or React elements created in the render method.
+    In the typical React dataflow, props are the only way that parent components interact with their children. To modify a child, you re-render it with new props. However, there are a few cases where you need to imperatively modify a child outside of the typical dataflow. The child to be modified could be an instance of a React component, or it could be a DOM element. For both of these cases, React provides an escape hatch.
+
+    **[⬆ Back to Top](#table-of-contents)**
+
+32. ### Forwarding refs.
+
+    Ref forwarding is a technique for automatically passing a ref through a component to one of its children. This is typically not necessary for most components in the application. However, it can be useful for some kinds of components, especially in reusable component libraries. The most common scenarios are described below.
+
+    **[⬆ Back to Top](#table-of-contents)**
+
+33. ### Controlled component vs Uncontrolled component
+
+    - A Controlled Component is one that takes its current value through props and notifies changes through callbacks like onChange. A parent component "controls" it by handling the callback and managing its own state and passing the new values as props to the controlled component. You could also call this a "dumb component".
+    - A Uncontrolled Component is one that stores its own state internally, and you query the DOM using a ref to find its current value when you need it. This is a bit more like traditional HTML.
+
+    **[⬆ Back to Top](#table-of-contents)**
+
+34. ### React Fragment
+
+    React Fragments allow you to wrap or group multiple elements without adding an extra node to the DOM.
+    This can be useful when rendering multiple child elements/components in a single parent component.
+
+    **[⬆ Back to Top](#table-of-contents)**
+
+35. ### Jest
+
+    Jest is an open-source testing framework built on JavaScript, designed majorly to work with React and React Native based web applications. Often, unit tests are not very useful when run on the frontend of any software. This is mostly because unit tests for the front-end require extensive, time-consuming configuration
+
+    **[⬆ Back to Top](#table-of-contents)**
+
+36. ### Pure Component and Function
+
+    - A function is said to be pure if the return value is determined by its input values only and the return value is always the same for the same input values.
+
+    - A React component is said to be pure if it renders the same output for the same state and props. For React pure class components, React provides the PureComponent base class. Class components that extend the React.PureComponent classes are treated as pure components.
+
+    **[⬆ Back to Top](#table-of-contents)**
+
+37. ### React Strict Mode
+
+    StrictMode is a React Developer Tool primarily used for highlighting possible problems in a web application. It activates additional deprecation checks and warnings for its child components. One of the reasons for its popularity is the fact that it provides visual feedback (warning/error messages) whenever the React guidelines and recommended practices are not followed. Just like the React Fragment, the React StrictMode Component does not render any visible UI.
+
+    **[⬆ Back to Top](#table-of-contents)**
+
+38. ### WebPack.
+
+    Webpack is an open-source JavaScript module bundler. It is made primarily for JavaScript, but it can transform front-end assets such as HTML, CSS, and images if the corresponding loaders are included. Webpack takes modules with dependencies and generates static assets representing those modules.
+
+    **[⬆ Back to Top](#table-of-contents)**
+
+39. ### UseMemo
+
+    React has a built-in hook called useMemo that allows you to memoize expensive functions so that you can avoid calling them on every render. You simple pass in a function and an array of inputs and useMemo will only recompute the memoized value when one of the inputs has changed.
+
+    **[⬆ Back to Top](#table-of-contents)**
+
+40. ### useCallback
+
+    Returns a memoized callback.
+    Pass an inline callback and an array of dependencies. useCallback will return a memoized version of the callback that only changes if one of the dependencies has changed. This is useful when passing callbacks to optimized child components that rely on reference equality to prevent unnecessary renders (e.g. shouldComponentUpdate).
+
+    **[⬆ Back to Top](#table-of-contents)**
+
+41. ### useCallback vs useMemo
+
+    One caches a value type and the other caches a function.
+
+    **[⬆ Back to Top](#table-of-contents)**
+
+42. ### useRef
+
+    useRef returns a mutable ref object whose .current property is initialized to the passed argument (initialValue). The returned object will persist for the full lifetime of the component.
+
+    **[⬆ Back to Top](#table-of-contents)**
+
+43. ### Lazy Loading
+
+    Lazy loading is the practice of delaying load or initialization of resources or objects until they're actually needed to improve performance and save system resources.
+
+    **[⬆ Back to Top](#table-of-contents)**
+
+44. ### Ways to Optimize Your Functional React Components
+
+    - Avoid arrow functions when possible.
+    - Use useMemo to cache expensive calculations.
+    - Use Fragments instead of empty divs.
+    - Use Throttle to prevent excessive executions. \* Use useRef to avoid component re-renders.
+
+    **[⬆ Back to Top](#table-of-contents)**
+
+45. ### how page loading optimized
+
+    - reduction in image size, font variety
+    - remove unnecessary widgets.
+    - HTTP compression
+    - reduction in lookups
+    - minimal redirection and caching
+
+    **[⬆ Back to Top](#table-of-contents)**
+
+46. ### CORS
+
+    Cross-Origin Resource Sharing (CORS) is an HTTP-header based mechanism that allows a server to indicate any origins (domain, scheme, or port) other than its own from which a browser should permit loading resources. CORS also relies on a mechanism by which browsers make a "preflight" request to the server hosting the cross-origin resource, in order to check that the server will permit the actual request. In that preflight, the browser sends headers that indicate the HTTP method and headers that will be used in the actual request.
+
+    **[⬆ Back to Top](#table-of-contents)**
+
+47. ### Get vs Post vs Put
+
+    - Get is read or retrieve resource
+    - Post is to create a new resource
+    - Put is to modify resource
+
+    **[⬆ Back to Top](#table-of-contents)**
+
+48. ### Local Storage vs Session vs Cookie
+
+    ![image](https://user-images.githubusercontent.com/60874384/161052492-cd0ff554-477d-404b-bdda-bd3541dbd0c2.png)
+
+    **[⬆ Back to Top](#table-of-contents)**
+
+49. ### CSR and SSR
+
+    - The difference
+
+    the main difference between CSR and SSR is where the page is rendered. SSR renders the page on the server-side and CSR renders the page on the client-side. Client-side manages the routing dynamically without refreshing the page every time the client requests a different route.
+
+    - use SSR
+
+    If SEO is your priority, typically when you are building a blog site and you want everyone who searching on google go to your website, then SSR is your choice.
+    If your website needs a faster initial loading.
+    If the content of your website doesn't need much user interaction.
+
+    - use CSR
+
+    When SEO is not your priority
+    If your site has rich interactions
+    If you are building a web application
+
+    **[⬆ Back to Top](#table-of-contents)**
+
+50. ### Promise
+
+    The Promise object represents the eventual completion (or failure) of an asynchronous operation and its resulting value.
+    A Promise is a proxy for a value not necessarily known when the promise is created. It allows you to associate handlers with an asynchronous action's eventual success value or failure reason. This lets asynchronous methods return values like synchronous methods: instead of immediately returning the final value, the asynchronous method returns a promise to supply the value at some point in the future.
+
+    A Promise is in one of these states:
+
+    pending: initial state, neither fulfilled nor rejected.
+    fulfilled: meaning that the operation was completed successfully.
+    rejected: meaning that the operation failed.
+
+    **[⬆ Back to Top](#table-of-contents)**
+
+51. ### Callback
+
+    A callback is a function passed as an argument to another function
+
+    This technique allows a function to call another function
+
+    A callback function can run after another function has finished
+
+    **[⬆ Back to Top](#table-of-contents)**
+
+52. ### Hoisting
+
+    JavaScript Hoisting refers to the process whereby the interpreter appears to move the declaration of functions, variables or classes to the top of their scope, prior to execution of the code.
+
+    var - returns undefined
+    let const -returns reference error
+    They are hoisted but not initialized with a default value unlike var.
+
+    class hoisting reference error
+
+    **[⬆ Back to Top](#table-of-contents)**
+
+53. ### AJAX
+
+    AJAX stands for Asynchronous JavaScript And XML. In a nutshell, it is the use of the XMLHttpRequest object to communicate with servers. It can send and receive information in various formats, including JSON, XML, HTML, and text files. AJAX's most appealing characteristic is its "asynchronous" nature, which means it can communicate with the server, exchange data, and update the page without having to refresh the page.
+
+    The two major features of AJAX allow you to do the following:
+
+    Make requests to the server without reloading the page
+    Receive and work with data from the server
+
+    **[⬆ Back to Top](#table-of-contents)**
+
+54. ### Async await
+
+    An async function is a function declared with the async keyword, and the await keyword is permitted within it. The async and await keywords enable asynchronous, promise-based behavior to be written in a cleaner style, avoiding the need to explicitly configure promise chains.
+
+    **[⬆ Back to Top](#table-of-contents)**
+
+55. ### generator
+
+    ```javascript
+    //The function* declaration (function keyword followed by an asterisk) defines a generator function, which returns a Generator object.
+    function* generator(i) {
+      yield i;
+      yield i + 10;
+    }
+
+    const gen = generator(10);
+
+    console.log(gen.next().value);
+    // expected output: 10
+
+    console.log(gen.next().value);
+    // expected output: 20
+    ```
+
+    **[⬆ Back to Top](#table-of-contents)**
+
+56. ### Closure
+
+    A closure is the combination of a function bundled together (enclosed) with references to its surrounding state (the lexical environment). In other words, a closure gives you access to an outer function's scope from an inner function. In JavaScript, closures are created every time a function is created, at function creation time.
+
+    **[⬆ Back to Top](#table-of-contents)**
+
+57. ### let var const
+
+    ![image](https://user-images.githubusercontent.com/60874384/161053978-d35ddbaf-433c-4e32-9094-5f87bb6f64d8.png)
+
+    **[⬆ Back to Top](#table-of-contents)**
+
+58. ### AWS Services
+
+    AWS Lambda, AWS API Gateway, DynamoDb, EC2, VPC, S3, etc.
+
+    **[⬆ Back to Top](#table-of-contents)**
+
+59. ### benefits of typescript in react
+
+* Easy to read and understand components
+With TypeScript, it’s easy to define Prop types, making the code much easier to read and use. And this will accompany by IntelliSense support plus static type checking.
+
+* Better support for JSX
+Another additional benefit of TypeScript + React is that it provides better IntelliSense, code completion for JSX.
+
+* Default TypeScript support for common libraries
+
+* Gradual adoption for existing projects
+Going for TypeScript is not an on-off switch. It is instead a gradual adaptation depending on the current condition of the project. Suppose you have decided to use TypeScript for an ongoing React project. In that case, you need to look at how you can use JavaScript and TypeScript side by side and gradually increase the TypeScript coverage.
+
+* Benefits comes with Static type checking and IntelliSense in general
+
+   **[⬆ Back to Top](#table-of-contents)**
+
+60. ### Event Handling 
+Handling events with React elements is very similar to handling events on DOM elements. There are some syntax differences:
+
+React events are named using camelCase, rather than lowercase.
+With JSX you pass a function as the event handler, rather than a string.
+* Another difference is that you cannot return false to prevent default behavior in React. You must call preventDefault explicitly. For example, with plain HTML, to prevent the default form behavior of submitting, you can write:
+* Passing Arguments to Event Handlers
+The above two lines are equivalent, and use arrow functions and Function.prototype.bind respectively.
+
+   **[⬆ Back to Top](#table-of-contents)**
+
+61. ### Error bundaries in React
+Error boundaries are React components that catch JavaScript errors anywhere in their child component tree, log those errors, and display a fallback UI instead of the component tree that crashed. Error boundaries catch errors during rendering, in lifecycle methods, and in constructors of the whole tree below them.
+Error boundaries do not catch errors for:
+
+* Event handlers (learn more)
+* Asynchronous code (e.g. setTimeout or requestAnimationFrame callbacks)
+* Server side rendering
+* Errors thrown in the error boundary itself (rather than its children)
+   **[⬆ Back to Top](#table-of-contents)**
